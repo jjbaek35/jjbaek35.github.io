@@ -3,7 +3,7 @@
 ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
 
-Just another documentation theme compatible with GitHub Pages
+On advancing my expertise in cybersecurity and undertaking critical challenges, my goal is to deliver my insights and findings to the pedagogical and research activities so that it would tremendously help produce future leaders who would effectively manage our national cybersecurity issues.
 
 ## About Me
 
