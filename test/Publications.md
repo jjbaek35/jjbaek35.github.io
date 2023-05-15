@@ -4,178 +4,37 @@ sort: 1
 
 # Publications
 
-**Jaejong Baek**, P. Soundrapandian, S. Kyung, R. Wang, Y. Shoshitaishvili, A. Doup ́e, G. Ahn, Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer , The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023), Porto, Portugal,
-June 27-30, 2023 
+1. Jaejong Baek, P. Soundrapandian, S. Kyung, R. Wang, Y. Shoshitaishvili, A. Doup ́e, G. Ahn, Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer , The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023), Porto, Portugal, June 27-30, 2023.
+2. L. Claramunt, C. Rubio Medrano, Jaejong Baek, G. Ahn, SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality, The ACM Symposium on Access Control Models and Technologies (SACMAT 2023),Trento, Italy, June 7-9, 2023.
+3. C. Rubio Medrano, Pradeep Kumar D S, Matthew Hill, Luis Claramunt, Jaejong Baek, Geetha S, and Gail-Joon Ahn, DyPolDroid: Protecting against permission-abuse attacks in android, Information Systems Frontiers, Springer, October 11, 2022
+4. C. Rubio Medrano, Matthew Hill, Luis M Claramunt, Jaejong Baek, Gail-Joon Ahn, DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android,” The 9th International Conference Secure Knowledge Management (SKM 2021), San Antonio, TX, USA, October 8–9, 2021.
+5. Shammya Saha, Nikhil Ravi, Kari Hreinsson, Jaejong Baek, Anna Scaglione, Nathan G. Johnson, A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain, Applied Energy Journal, Elsevier, January 17, 2021
+6. Pradeep Kumar D S, Jaejong Baek, Tiffany Bao, Yan Shoshitaishvili, Adam Doup ́e, Ruoyu Wang, Gail-Joon Ahn, MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract, HICSS -54, January 4-9, 2021.
+7. Jaejong Baek, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doup ́e, Gail-Joon Ahn, Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling, Annual Computer Security Applications Conference (ACSAC 2018), San Juan, PR, USA, December 3–7, 2018.
+8. Hong Wang, Jia Liu, Wenjie Yi, Ben Niu and Jaejong Baek, An Improved Brainstorm Optimization with Learning Strategy, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
+9. Hong Wang, Lulu Zuo, Jia Liu, Chen Yang, Ya Li and Jaejong Baek, A Comparison of Heuristic Algorithms for Bus Dispatch, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
+10. Jaejong Baek, Enhanced Method for Preventing Malware by Detecting of Injection Site, Journal of Korea Institute of Information and Communication Convergence Engineering (JKIICE), Volume 14, No. 2, July 1, 2016.
+11. Jaejong Baek, Secure Pre-authentication Schemes for Fast Handoff in Proxy Mobile IPv6, The Journal of Information and Communication Convergence Engineering (JICCE), Volume 19, No. 2, June 1, 2016.
+12. Jaejong Baek, An Enhanced Method using NP-complete Problem in Public Key Cryptography System, Journal of Korea Institute of Information and Communication Convergence Engineering(JKIICE), Volume 19, No. 2, December 1, 2015.
+13. Jaejong Baek, Byoung-Moo Moon, Cyber Defense Analysis and Improvement of Military Ecosystem with Information Security Industry, Journal of the Korea Institute of Information Security & Cryptology(KIISC), Volume 24, Issue 6, December 2014.
+14. Kyungjoon Kim, Jaejong Baek, Jooseok Song, A Hierarchical Authentication for Proxy Mobile IPv6 Networks, Journal of the Korea Institute of Information Security & Cryptology (KIISC), Volume 24, Issue 1, February, 2014.
+15. Fei Shi, Jaejong Baek, Jooseok Song, Weijie Liu, A Novel Scheme to Prevent MAC Layer Misbehavior in IEEE 802.11 Ad Hoc Networks, Telecommunication Systems, Volume 52, Issue 4, pp 2397-2406, April 2013.
+16. Jaejong Baek, Sunghoon Seo, Fei Shi, Jooseok Song, A Novel Pre-authentication Scheme based on Fast Channel Switching in IEEE 802.11 WLANs, EURASIP Journal on Wireless Communications and Networking, Volume 2012, Issue 1, February 2012.
+17. Jaejong Baek, Hyojin Kim, Jooseok Song, A WLAN Pre-authentication Scheme Based on Fast Channel Switching for 3G-WLAN Interworking, Journal of the Korea Institute of Information Security & Cryptology(KIISC), Volume 21. February 2012.
+18. Sunghoon Seo, Jaejong Baek, Donggun Kim, Jooseok Song, VirtFrame: A Sniffing-based Throughput Estimation Scheme in IEEE 802.11 Wireless LANs, Journal of the Korea Information Processing Society (KIPS), Volume 18, Issue 3, June 2011.
+19. Seokung Yoon, Hyuncheol Jung, Xuemei Che, Gyeongho Chu, Han Park, Jaejong Baek, Jooseok Song, Hyeongseon Yoo, Performance Evaluation of VoIP Secure Communication Protocols based on SIP in Mobile Environments, Journal of the Korea Information Processing Society (KIPS), Volume 18, Issue 3, June 2011.
+20. Han Park, Che Xuemei, Gyungho Chu, Jaejong Baek, Jooseok Song, Empirical Analysis of Security Protocol in Mobile VoIP System, International Conference on Information Security and Artificial Intelligence (ISAI 2010), Chengdu, China, December 2010 
+21. Sungrae Kim, Kyungjoon Kim, Jaejong Baek, Jooseok Song, A WLAN Handoff Scheme Based on Selective Channel Scan Using Pre-collected AP Information for VoIP Application, International Conference on Innovations in Information Technology (IIT 2009), Al Ain, UAE, December 2009
+22. Jaejong Baek, Jooseok Song, Sunghoon Seo, Multiple Pre-authentication Schemes Based on Fast Channel Switching in Public Wireless LANs, International Conference on Innovations in Information Technology (IIT 2009), Al Ain, UAE, December 2009
+23. Jaejong Baek, Jooseok Song, Adaptive Context Transfer Scheme For Fast Handoff in Proxy Mobile IPv6, International Conference on Next Generation Mobile Applications, Services and Technologies (IEEE NGMAST 2008), Cardiff, UK, September 2008
+24. Sunghoon Seo, Jonghyup Lee, Jaejong Baek, Jooseok Song, A Survey of WiBro Security in Heterogeneous Wireless Networks, The 3rd Joint Workshop on Information Security (JWIS 2008), Seoul, Korea, July, 2008
+OTHER ACHIEVEMENTS
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
+#Patents#
+• US11588631, Jaejong Baek, Sukwha Kyung, Gail-Joon Ahn, Systems and Methods for Blockchain-Based Automatic Key Generation, Issued on 02/21/2023
+• 63/374493, Luis Claramunt, Carlos Rubio-Medrano, Jaejong Baek, Gail-Joon Ahn, Systems and Methods for a Policy-Governed Content Mediation Model for Mobile Augmented Reality Applications, Filed on
+09/02/2022
 
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
-
-> There should be no margin above this first sentence.
->
-> Blockquotes should be a lighter gray with a gray border along the left side.
->
-> There should be no margin below this final sentence.
-
-# Header 1
-
-This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-## Header 2
-
-> This is a blockquote following a header. Bacon ipsum dolor sit amet t-bone doner shank drumstick, pork belly porchetta chuck sausage brisket ham hock rump pig. Chuck kielbasa leberkas, pork bresaola ham hock filet mignon cow shoulder short ribs biltong.
-
-### Header 3
-
-```
-This is a code block following a header.
-```
-
-#### Header 4
-
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-
-##### Header 5
-
-1. This is an ordered list following a header.
-2. This is an ordered list following a header.
-3. This is an ordered list following a header.
-
-###### Header 6
-
-| What    | Follows  |
-| ------- | -------- |
-| A table | A header |
-| A table | A header |
-| A table | A header |
-
----
-
-There's a horizontal rule above and below this.
-
----
-
-Here is an unordered list:
-
-- Salt-n-Pepa
-- Bel Biv DeVoe
-- Kid 'N Play
-
-And an ordered list:
-
-1. Michael Jackson
-2. Michael Bolton
-3. Michael Bublé
-
-And an unordered task list:
-
-- [x] Create a sample markdown document
-- [x] Add task lists to it
-- [ ] Take a vacation
-
-And a "mixed" task list:
-
-- [ ] Steal underpants
-- ?
-- [ ] Profit!
-
-And a nested list:
-
-- Jackson 5
-  - Michael
-  - Tito
-  - Jackie
-  - Marlon
-  - Jermaine
-- TMNT
-  - Leonardo
-  - Michelangelo
-  - Donatello
-  - Raphael
-
-Definition lists can be used with HTML syntax. Definition terms are bold and italic.
-
-<dl>
-    <dt>Name</dt>
-    <dd>Godzilla</dd>
-    <dt>Born</dt>
-    <dd>1952</dd>
-    <dt>Birthplace</dt>
-    <dd>Japan</dd>
-    <dt>Color</dt>
-    <dd>Green</dd>
-</dl>
-
----
-
-Tables should have bold headings and alternating shaded rows.
-
-| Artist          | Album          | Year |
-| --------------- | -------------- | ---- |
-| Michael Jackson | Thriller       | 1982 |
-| Prince          | Purple Rain    | 1984 |
-| Beastie Boys    | License to Ill | 1986 |
-
-If a table is too wide, it should condense down and/or scroll horizontally.
-
-<!-- prettier-ignore-start -->
-
-| Artist            | Album           | Year | Label       | Awards   | Songs     |
-|-------------------|-----------------|------|-------------|----------|-----------|
-| Michael Jackson   | Thriller        | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin' Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
-| Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let's Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I'm a Star, Purple Rain |
-| Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
-
-<!-- prettier-ignore-end -->
-
----
-
-Code snippets like `var foo = "bar";` can be shown inline.
-
-Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
-
-Code can also be shown in a block element.
-
-```
-var foo = "bar";
-```
-
-Code can also use syntax highlighting.
-
-```javascript
-var foo = "bar";
-```
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```javascript
-var foo =
-  "The same thing is true for code with syntax highlighting. A single line of code should horizontally scroll if it is really long.";
-```
-
-Inline code inside table cells should still be distinguishable.
-
-| Language   | Code               |
-| ---------- | ------------------ |
-| Javascript | `var foo = "bar";` |
-| Ruby       | `foo = "bar"`      |
-
----
-
-Small images should be shown at their actual size.
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-Large images should always scale down and fit in the content container.
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-```
-This is the final element on the page and there should be no margin below this.
-```
+#Other Publications
+• L. M. Claramunt, L. P. Epse, C. E. Rubio-Medrano, Jaejong Baek, G. -J.Ahn, Poster: Preventing Spatial and Privacy Attacks in Mobile Augmented Reality Technologies, 2021 IEEE EuropeanSymposium on Security and Privacy (EuroS&P), 09/06/2021
+• M. Hill, C. E. Rubio-Medrano, L. M. Claramunt, Jaejong Baek, G. -J.Ahn, Poster: DyPolDroid: User Centered Counter-Policies Against Android Permission-Abuse Attacks, 2021 IEEE European Symposium on Security and Privacy (EuroS&P), 09/06/2021.
