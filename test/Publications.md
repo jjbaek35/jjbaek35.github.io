@@ -30,7 +30,7 @@ sort: 1
 24. Sunghoon Seo, Jonghyup Lee, Jaejong Baek, Jooseok Song, A Survey of WiBro Security in Heterogeneous Wireless Networks, The 3rd Joint Workshop on Information Security (JWIS 2008), Seoul, Korea, July, 2008
 OTHER ACHIEVEMENTS
 
-#Patents#
+#Patents
 • US11588631, Jaejong Baek, Sukwha Kyung, Gail-Joon Ahn, Systems and Methods for Blockchain-Based Automatic Key Generation, Issued on 02/21/2023
 • 63/374493, Luis Claramunt, Carlos Rubio-Medrano, Jaejong Baek, Gail-Joon Ahn, Systems and Methods for a Policy-Governed Content Mediation Model for Mobile Augmented Reality Applications, Filed on
 09/02/2022
