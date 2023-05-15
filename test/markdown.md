@@ -34,10 +34,12 @@ OTHER ACHIEVEMENTS
 ## Patents
 
 • US11588631, **Jaejong Baek**, Sukwha Kyung, Gail-Joon Ahn, Systems and Methods for Blockchain-Based Automatic Key Generation, Issued on 02/21/2023
+
 • 63/374493, Luis Claramunt, Carlos Rubio-Medrano, **Jaejong Baek**, Gail-Joon Ahn, Systems and Methods for a Policy-Governed Content Mediation Model for Mobile Augmented Reality Applications, Filed on
 09/02/2022
 
 ## Other Publications
 
 • L. M. Claramunt, L. P. Epse, C. E. Rubio-Medrano, **Jaejong Baek**, G. -J.Ahn, Poster: Preventing Spatial and Privacy Attacks in Mobile Augmented Reality Technologies, 2021 IEEE EuropeanSymposium on Security and Privacy (EuroS&P), 09/06/2021
+
 • M. Hill, C. E. Rubio-Medrano, L. M. Claramunt, **Jaejong Baek**, G. -J.Ahn, Poster: DyPolDroid: User Centered Counter-Policies Against Android Permission-Abuse Attacks, 2021 IEEE European Symposium on Security and Privacy (EuroS&P), 09/06/2021.
