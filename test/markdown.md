@@ -27,7 +27,7 @@ This is a normal paragraph following a header. Bacon ipsum dolor sit amet t-bone
 ### Header 3
 
 ```
-This is a code block following a header.
+This is a code block following a header..
 ```
 
 #### Header 4
