@@ -10,7 +10,7 @@ sort: 1
 
 3. C. Rubio Medrano, Pradeep Kumar D S, Matthew Hill, Luis Claramunt, **Jaejong Baek**, Geetha S, and Gail-Joon Ahn, *DyPolDroid: Protecting against permission-abuse attacks in android*, Information Systems Frontiers, Springer, October 11, 2022
 
-4. C. Rubio Medrano, Matthew Hill, Luis M Claramunt, **Jaejong Baek**, Gail-Joon Ahn, *DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android*,” The 9th International Conference Secure Knowledge Management (SKM 2021), San Antonio, TX, USA, October 8–9, 2021.
+4. C. Rubio Medrano, Matthew Hill, Luis M Claramunt, **Jaejong Baek**, Gail-Joon Ahn, *DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android*, The 9th International Conference Secure Knowledge Management (SKM 2021), San Antonio, TX, USA, October 8–9, 2021.
 
 5. Shammya Saha, Nikhil Ravi, Kari Hreinsson, **Jaejong Baek**, Anna Scaglione, Nathan G. Johnson, *A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain*, Applied Energy Journal, Elsevier, January 17, 2021
 
