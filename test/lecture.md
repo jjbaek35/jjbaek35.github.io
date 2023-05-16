@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-
+# Lectures
 
 # CSE365 
 ## 2023 SUMMER
