@@ -6,7 +6,7 @@ sort: 3
 
 ## Mobile Secuirty
 
-### 5G Netowrk Slice
+### 4G/5G Security
 
 ### Android Secuirty
 
@@ -15,6 +15,8 @@ sort: 3
 ## Access Management
 
 ### Science Access
+
+### Mobile Augmented Rreality
 
 ## Digital Forensics
 
