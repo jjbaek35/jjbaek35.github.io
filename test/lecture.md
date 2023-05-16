@@ -2,16 +2,21 @@
 sort: 2
 ---
 
-## CSE365 2023 SUMMER
+## Lectures
+
+### CSE365 
+#### 2023 SUMMER
 
 
-## CSE469 2023 SPRING
+### CSE469 
+
+#### 2023 SPRING
 
 
-## CSE469 2022 FALL
+#### 2022 FALL
 
 
-## CSE469 2021 SPRING
+#### 2021 SPRING
 
 
-## CSE469 2020 SPRING
+#### 2020 SPRING
