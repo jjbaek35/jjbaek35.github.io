@@ -8,7 +8,8 @@ sort: 1
 
 ### 4G/5G/6G Security
 Identifying security threats and vulnerabilities in 5G network slices based on SDN and NFV.
-Develping Security Reasoning framework to support automatic analysis and conformance testing.
+Develping Security Reasoning framework to support automatic analysis and conformance testing.\
+LTE privacy attacks based on machine learning solutions to identify patterns in the communication of commercial LTE networks.
 - Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer, DSN2023
 - Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling, ACSAC2018
 - Secure Pre-authentication Schemes for Fast Handoff in Proxy Mobile IPv6, JICCE2016
@@ -24,7 +25,7 @@ Exploring cybersecurity issues in vehicle, V2X (Vehicle-to-Everything), and auto
 ## Access Management
 
 ### Science Access
-This project develops ScienceAccess, a federated framework supporting the storage, retrieval, evaluation, and enforcement of AM-Policies that allows scientists and administrators to manage their resource-sharing needs with a high degree of autonomy.
+This project funded by [NSF (#2232911)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2232911){:target="_blank"} and aims to develop ScienceAccess, a federated framework supporting the storage, retrieval, evaluation, and enforcement of AM-Policies that allows scientists and administrators to manage their resource-sharing needs with a high degree of autonomy.
 
 ### Mobile Augmented Rreality
 SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality
