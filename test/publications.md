@@ -3,10 +3,6 @@ sort: 3
 ---
 # Publications
 
-## Google Scholr Citation
-
-[**Google Scholr Citation**](https://scholar.google.co.kr/citations?hl=en&user=56y8y6QAAAAJ&view_op=list_works&gmla=AJsN-F5y7C5W0lHspHMOuILg29eq-5IKCSgj3wYqkqcem6UzzDyj_V1CuNLZoiqTIjHBJJ63CATwbB7jK7oRChbO3d-Z2W7mhPFp6531_LQgcQDWpl66t-LC7LdKPh1zvNPb9wlDJL3oEESK22xwd-LmnTEPRr_Rtp9h7FYIUaTgaqJ0uVupVGAzpCpVXH1jwdxNaqWiHUIk&authuser=0){:target="_blank"}
-
 
 ## Papers 
 
@@ -69,3 +65,7 @@ sort: 3
 • L. M. Claramunt, L. P. Epse, C. E. Rubio-Medrano, **Jaejong Baek**, G. -J.Ahn, Poster: *Preventing Spatial and Privacy Attacks in Mobile Augmented Reality Technologies*, 2021 IEEE EuropeanSymposium on Security and Privacy (EuroS&P), 09/06/2021
 
 • M. Hill, C. E. Rubio-Medrano, L. M. Claramunt, **Jaejong Baek**, G. -J.Ahn, *Poster: DyPolDroid: User Centered Counter-Policies Against Android Permission-Abuse Attacks*, 2021 IEEE European Symposium on Security and Privacy (EuroS&P), 09/06/2021.
+
+## Google Scholr Citation
+
+[Google Scholr Citation](https://scholar.google.co.kr/citations?hl=en&user=56y8y6QAAAAJ&view_op=list_works&gmla=AJsN-F5y7C5W0lHspHMOuILg29eq-5IKCSgj3wYqkqcem6UzzDyj_V1CuNLZoiqTIjHBJJ63CATwbB7jK7oRChbO3d-Z2W7mhPFp6531_LQgcQDWpl66t-LC7LdKPh1zvNPb9wlDJL3oEESK22xwd-LmnTEPRr_Rtp9h7FYIUaTgaqJ0uVupVGAzpCpVXH1jwdxNaqWiHUIk&authuser=0){:target="_blank"}
