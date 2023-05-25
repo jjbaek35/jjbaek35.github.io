@@ -2,8 +2,7 @@
 sort: 0
 ---
 # About
-![enter image description here](https://github.com/jjbaek35/jjbaek35.github.io/blob/master/images/jaejong.jpg)
-
+<img src="[https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg](https://github.com/jjbaek35/jjbaek35.github.io/blob/master/images/jaejong.jpg)"  width="600" height="300">
 Just another documentation theme compatible with GitHub Pages
 
 I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/) lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations) at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
