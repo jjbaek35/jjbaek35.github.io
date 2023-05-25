@@ -9,9 +9,9 @@ sort: 1
 ### 4G/5G/6G Security
 Identifying security threats and vulnerabilities in 5G network slices based on SDN and NFV.
 Develping Security Reasoning framework to support automatic analysis and conformance testing.\
--Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer, DSN2023\
--Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling, ACSAC2018\
--Secure Pre-authentication Schemes for Fast Handoff in Proxy Mobile IPv6, JICCE2016
+- Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer, DSN2023\
+- Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling, ACSAC2018\
+- Secure Pre-authentication Schemes for Fast Handoff in Proxy Mobile IPv6, JICCE2016
 
 ### Android Secuirty
 Developing security-enhanced authorization framework aimed to detect and protect against emerging PendingIntent-based attacks abusing excess privileges for the escalation and unauthorized invoke\
