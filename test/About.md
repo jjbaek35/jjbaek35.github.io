@@ -1,8 +1,10 @@
 ---
 sort: 0
 ---
-# About Me
-## About Me
+# About
+![enter image description here](https://github.com/jjbaek35/jjbaek35.github.io/blob/master/images/jaejong.jpg)
+
+Just another documentation theme compatible with GitHub Pages
 
 I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/) lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations) at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
 
@@ -27,90 +29,3 @@ I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.as
 7. Our team (Jaejong Baek, Sukwha Kyung, Gail-Joon Ahn) was recognized as the Most Innovative Capability in t[he Blockchain Innovation Challenge hosted by ASURE. The title of the project is "Cryptographic Key Management System using a Distributed Shared Ledger".](https://twitter.com/ASUREASU/status/1138645169828294656) (Patent issued)
 
 8. Our paper "[Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling](https://adamdoupe.com/publications/wi-not-calling-acsac2018.pdf) " has been accepted in [ACSAC ’18, December 3–7, 2018, San Juan, PR, USA.](https://www.acsac.org/) In this paper, we analyze the security of Wi-Fi Calling specifications and discover several vulnerabilities that allow an adversary to track the location of users and perform DoS attacks.
-
-<!--- 
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
-
-You can [generate](https://github.com/rundocs/starter-slim/generate) with the same files and folders from [rundocs/starter-slim](https://github.com/rundocs/starter-slim/)
-
-## Usage
-
-Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
-
-## Features
-
-- Shortcodes (Toasts card, mermaid)
-- Pages Plugins (emoji, gist, avatar, mentions)
-- Auto generate sidebar
-- [Attribute List Definitions](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions) (Primer/css utilities, Font Awesome 4)
-- Service worker (caches)
-- SEO (404, robots.txt, sitemap.xml)
-- Canonical Link (Open Graph, Twitter Card, Schema data)
-
-## Options
-
-| name          | default value        | description       |
-| ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
-| `description` | repo description     |                   |
-| `url`         | user domain or cname |                   |
-| `baseurl`     | repo name            |                   |
-| `lang`        | `en`                 |                   |
-| `direction`   | `auto`               | `ltr` or `rtl`    |
-| `highlighter` | `rouge`              | Cannot be changed |
-
-```yml
-# folders sort
-readme_index:
-  with_frontmatter: true
-
-meta:
-  key1: value1
-  key2: value2
-  .
-  .
-  .
-
-google:
-  gtag:
-  adsense:
-
-mathjax: # this will prased to json, default: {}
-
-mermaid:
-  custom:     # mermaid link
-  initialize: # this will prased to json, default: {}
-
-scss:   # also _includes/extra/styles.scss
-script: # also _includes/extra/script.js
-
-translate:
-  # shortcodes
-  danger:
-  note:
-  tip:
-  warning:
-  # 404
-  not_found:
-  # copyright
-  revision:
-  # search
-  searching:
-  search:
-  search_docs:
-  search_results:
-  search_results_found: # the "#" in this translate will replaced with results size!
-  search_results_not_found:
-
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
--->
