@@ -3,6 +3,7 @@ sort: 0
 ---
 # About Me
 <img src="https://github.com/jjbaek35/jjbaek35.github.io/blob/master/images/jaejong.jpg"  width="20%">
+
 On advancing my expertise in cybersecurity and undertaking critical challenges, my goal is to deliver my insights and findings to the pedagogical and research activities so that it would tremendously help produce future
 leaders who would effectively manage our national cybersecurity issues.
 Hello, I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/) lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations) at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
