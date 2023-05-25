@@ -1,13 +1,7 @@
 ---
 sort: 0
 ---
-# Jaejong Baek
-
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
-
-Just another documentation theme compatible with GitHub Pages
-
+# About Me
 ## About Me
 
 I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/) lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations) at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp) in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
