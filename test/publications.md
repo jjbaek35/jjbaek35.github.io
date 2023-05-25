@@ -3,7 +3,9 @@ sort: 3
 ---
 # Publications
 
-## [Google Scholr Citation](https://scholar.google.co.kr/citations?hl=en&user=56y8y6QAAAAJ&view_op=list_works&gmla=AJsN-F5y7C5W0lHspHMOuILg29eq-5IKCSgj3wYqkqcem6UzzDyj_V1CuNLZoiqTIjHBJJ63CATwbB7jK7oRChbO3d-Z2W7mhPFp6531_LQgcQDWpl66t-LC7LdKPh1zvNPb9wlDJL3oEESK22xwd-LmnTEPRr_Rtp9h7FYIUaTgaqJ0uVupVGAzpCpVXH1jwdxNaqWiHUIk&authuser=0){:target="_blank"}
+## Google Scholr Citation
+
+[**Google Scholr Citation**](https://scholar.google.co.kr/citations?hl=en&user=56y8y6QAAAAJ&view_op=list_works&gmla=AJsN-F5y7C5W0lHspHMOuILg29eq-5IKCSgj3wYqkqcem6UzzDyj_V1CuNLZoiqTIjHBJJ63CATwbB7jK7oRChbO3d-Z2W7mhPFp6531_LQgcQDWpl66t-LC7LdKPh1zvNPb9wlDJL3oEESK22xwd-LmnTEPRr_Rtp9h7FYIUaTgaqJ0uVupVGAzpCpVXH1jwdxNaqWiHUIk&authuser=0){:target="_blank"}
 
 
 ## Papers 
