@@ -7,9 +7,8 @@ sort: 1
 ## Mobile Secuirty
 
 ### 4G/5G/6G Security
-Identifying security threats and vulnerabilities in 5G network slices based on SDN and NFV.
-Develping Security Reasoning framework to support automatic analysis and conformance testing.\
-LTE privacy attacks based on machine learning solutions to identify patterns in the communication of commercial LTE networks.
+Identifying security threats and vulnerabilities in 5G network slices based on SDN and NFV and develping Security Reasoning framework to support automatic analysis and conformance testing.
+As an complted project, LTE privacy attacks based on machine learning solutions to identify patterns in the communication of commercial LTE networks.
 - Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer, DSN2023
 - Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling, ACSAC2018
 - Secure Pre-authentication Schemes for Fast Handoff in Proxy Mobile IPv6, JICCE2016
