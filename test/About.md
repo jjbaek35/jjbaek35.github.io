@@ -2,7 +2,7 @@
 sort: 0
 ---
 # About Me
-<img src="https://github.com/jjbaek35/jjbaek35.github.io/blob/master/images/jaejong.jpg"  width="20%">
+<img src="../images/jaejong.jpg"  width="20%">
 
 On advancing my expertise in cybersecurity and undertaking critical challenges, my goal is to deliver my insights and findings to the pedagogical and research activities so that it would tremendously help produce future
 leaders who would effectively manage our national cybersecurity issues.
