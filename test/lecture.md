@@ -18,12 +18,17 @@ Identification, extraction, documentation, interpretation, and preservation of c
 ### 2023 FALL
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2237#detailsOpen=90637-123516" target="_blank"> Class information </a>
 
-### 2023 SPRING
+### 2023 SPRING 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2231" target="_blank"> Class information </a>
 
 ### 2022 FALL
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2227" target="_blank"> Class information </a>
 
 ### 2022 SPRING
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2221" target="_blank"> Class information </a>
 
 ### 2021 SPRING
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2211" target="_blank"> Class information </a>
 
 ### 2020 SPRING
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2201" target="_blank"> Class information </a>
