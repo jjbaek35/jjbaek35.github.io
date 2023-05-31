@@ -6,7 +6,7 @@ sort: 3
 
 ## Papers 
 
-1. **Jaejong Baek**, P. Soundrapandian, S. Kyung, R. Wang, Y. Shoshitaishvili, A. Doup ́e, G. Ahn, *Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer* , [The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023)](../paper/dsn23.pdf){:target="_blank"}, Porto, Portugal, June 27-30, 2023.
+1. **Jaejong Baek**, P. Soundrapandian, S. Kyung, R. Wang, Y. Shoshitaishvili, A. Doup ́e, G. Ahn, [*Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer*](../papers/dsn23.pdf){:target="_blank"} , The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023), Porto, Portugal, June 27-30, 2023.
 
 2. L. Claramunt, C. Rubio Medrano, **Jaejong Baek**, G. Ahn, *SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality*, The ACM Symposium on Access Control Models and Technologies (SACMAT 2023),Trento, Italy, June 7-9, 2023.
 
