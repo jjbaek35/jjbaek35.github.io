@@ -16,11 +16,11 @@ sort: 3
 
 5. Shammya Saha, Nikhil Ravi, Kari Hreinsson, **Jaejong Baek**, Anna Scaglione, Nathan G. Johnson, [*A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain*](../papers/energy2021.pdf){:target="_blank"}, Applied Energy Journal, Elsevier, January 17, 2021
 
-6. Pradeep Kumar D S, **Jaejong Baek**, Tiffany Bao, Yan Shoshitaishvili, Adam Doup ́e, Ruoyu Wang, Gail-Joon Ahn, [*MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract*](../papers/Mutent.pdf){:target="_blank"}, HICSS -54, January 4-9, 2021.
+6. Pradeep Kumar D S, **Jaejong Baek**, Tiffany Bao, Yan Shoshitaishvili, Adam Doup ́e, Ruoyu Wang, Gail-Joon Ahn, [*MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract*](../papers/MuTent.pdf){:target="_blank"}, HICSS -54, January 4-9, 2021.
 
 7. **Jaejong Baek**, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doup ́e, Gail-Joon Ahn, [*Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling*](../papers/wi_not_calling-acsac18.pdf){:target="_blank"}, Annual Computer Security Applications Conference (ACSAC 2018), San Juan, PR, USA, December 3–7, 2018.
 
-8. Hong Wang, Jia Liu, Wenjie Yi, Ben Niu and **Jaejong Baek**, [*An Improved Brainstorm Optimization with Learning Strategy*](../papers/brain2017-2.pdf){:target="_blank"}, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
+8. Hong Wang, Jia Liu, Wenjie Yi, Ben Niu and **Jaejong Baek**, [*An Improved Brainstorm Optimization with Learning Strategy*](../papers/Brain2017-2.pdf){:target="_blank"}, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
 
 9. Hong Wang, Lulu Zuo, Jia Liu, Chen Yang, Ya Li and **Jaejong Baek**, [*A Comparison of Heuristic Algorithms for Bus Dispatch*](../papers/Bus_Dispatch_2017-2.pdf){:target="_blank"}, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
 
