@@ -12,17 +12,17 @@ sort: 3
 
 3. C. Rubio Medrano, Pradeep Kumar D S, Matthew Hill, Luis Claramunt, **Jaejong Baek**, Geetha S, and Gail-Joon Ahn, [*DyPolDroid: Protecting against permission-abuse attacks in android*](../papers/Dypoldroid_IF2023.pdf){:target="_blank"}, Information Systems Frontiers, Springer, October 11, 2022
 
-4. C. Rubio Medrano, Matthew Hill, Luis M Claramunt, **Jaejong Baek**, Gail-Joon Ahn, *DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android*, The 9th International Conference Secure Knowledge Management (SKM 2021), San Antonio, TX, USA, October 8–9, 2021.
+4. C. Rubio Medrano, Matthew Hill, Luis M Claramunt, **Jaejong Baek**, Gail-Joon Ahn, [*DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android*](../papers/Dypoldroid_skm.pdf){:target="_blank"}, The 9th International Conference Secure Knowledge Management (SKM 2021), San Antonio, TX, USA, October 8–9, 2021.
 
-5. Shammya Saha, Nikhil Ravi, Kari Hreinsson, **Jaejong Baek**, Anna Scaglione, Nathan G. Johnson, *A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain*, Applied Energy Journal, Elsevier, January 17, 2021
+5. Shammya Saha, Nikhil Ravi, Kari Hreinsson, **Jaejong Baek**, Anna Scaglione, Nathan G. Johnson, [*A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange (EVE) Blockchain*](../papers/energy2021.pdf){:target="_blank"}, Applied Energy Journal, Elsevier, January 17, 2021
 
-6. Pradeep Kumar D S, **Jaejong Baek**, Tiffany Bao, Yan Shoshitaishvili, Adam Doup ́e, Ruoyu Wang, Gail-Joon Ahn, *MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract*, HICSS -54, January 4-9, 2021.
+6. Pradeep Kumar D S, **Jaejong Baek**, Tiffany Bao, Yan Shoshitaishvili, Adam Doup ́e, Ruoyu Wang, Gail-Joon Ahn, [*MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract*](../papers/Mutent.pdf){:target="_blank"}, HICSS -54, January 4-9, 2021.
 
-7. **Jaejong Baek**, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doup ́e, Gail-Joon Ahn, *Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling*, Annual Computer Security Applications Conference (ACSAC 2018), San Juan, PR, USA, December 3–7, 2018.
+7. **Jaejong Baek**, Sukwha Kyung, Haehyun Cho, Ziming Zhao, Yan Shoshitaishvili, Adam Doup ́e, Gail-Joon Ahn, [*Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling*](../papers/wi_not_calling-acsac18.pdf){:target="_blank"}, Annual Computer Security Applications Conference (ACSAC 2018), San Juan, PR, USA, December 3–7, 2018.
 
-8. Hong Wang, Jia Liu, Wenjie Yi, Ben Niu and **Jaejong Baek**, *An Improved Brainstorm Optimization with Learning Strategy*, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
+8. Hong Wang, Jia Liu, Wenjie Yi, Ben Niu and **Jaejong Baek**, [*An Improved Brainstorm Optimization with Learning Strategy*](../papers/brain2017-2.pdf){:target="_blank"}, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
 
-9. Hong Wang, Lulu Zuo, Jia Liu, Chen Yang, Ya Li and **Jaejong Baek**, *A Comparison of Heuristic Algorithms for Bus Dispatch*, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
+9. Hong Wang, Lulu Zuo, Jia Liu, Chen Yang, Ya Li and **Jaejong Baek**, [*A Comparison of Heuristic Algorithms for Bus Dispatch*](../papers/Bus_Dispatch_2017-2.pdf){:target="_blank"}, The International Conference on Swarm Intelligence (ICSI 2017), Fukuoka, Japan, July 27-August 1, 2017
 
 10. **Jaejong Baek**, *Enhanced Method for Preventing Malware by Detecting of Injection Site*, Journal of Korea Institute of Information and Communication Convergence Engineering (JKIICE), Volume 14, No. 2, July 1, 2016
 
