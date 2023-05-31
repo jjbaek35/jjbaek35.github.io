@@ -46,7 +46,7 @@ sort: 3
 
 20. Han Park, Che Xuemei, Gyungho Chu, **Jaejong Baek**, Jooseok Song, [*Empirical Analysis of Security Protocol in Mobile VoIP System*](../papers/voip2010.pdf){:target="_blank"}, International Conference on Information Security and Artificial Intelligence (ISAI 2010), Chengdu, China, December 2010 
 
-21. Sungrae Kim, Kyungjoon Kim, **Jaejong Baek**, Jooseok Song, [*A WLAN Handoff Scheme Based on Selective Channel Scan Using Pre-collected AP Information for VoIP Application*](../papers/selective_channel_scan2009.pdf)(../papers/voip2010.pdf){:target="_blank"}, International Conference on Innovations in Information Technology (IIT 2009), Al Ain, UAE, December 2009
+21. Sungrae Kim, Kyungjoon Kim, **Jaejong Baek**, Jooseok Song, [*A WLAN Handoff Scheme Based on Selective Channel Scan Using Pre-collected AP Information for VoIP Application*](../papers/selective_channel_scan2009.pdf){:target="_blank"}, International Conference on Innovations in Information Technology (IIT 2009), Al Ain, UAE, December 2009
 
 22. **Jaejong Baek**, Jooseok Song, Sunghoon Seo, [*Multiple Pre-authentication Schemes Based on Fast Channel Switching in Public Wireless LANs*](../papers/Multiple_preauthentication2009.pdf){:target="_blank"}, International Conference on Innovations in Information Technology (IIT 2009), Al Ain, UAE, December 2009
 
