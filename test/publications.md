@@ -10,7 +10,7 @@ sort: 3
 
 2. L. Claramunt, C. Rubio Medrano, **Jaejong Baek**, G. Ahn, [*SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality*](../papers/sacmat23.pdf){:target="_blank"}, The ACM Symposium on Access Control Models and Technologies (SACMAT 2023),Trento, Italy, June 7-9, 2023.
 
-3. C. Rubio Medrano, Pradeep Kumar D S, Matthew Hill, Luis Claramunt, **Jaejong Baek**, Geetha S, and Gail-Joon Ahn, *DyPolDroid: Protecting against permission-abuse attacks in android*, Information Systems Frontiers, Springer, October 11, 2022
+3. C. Rubio Medrano, Pradeep Kumar D S, Matthew Hill, Luis Claramunt, **Jaejong Baek**, Geetha S, and Gail-Joon Ahn, [*DyPolDroid: Protecting against permission-abuse attacks in android*](../papers/Dypoldroid_IF2023.pdf){:target="_blank"}, Information Systems Frontiers, Springer, October 11, 2022
 
 4. C. Rubio Medrano, Matthew Hill, Luis M Claramunt, **Jaejong Baek**, Gail-Joon Ahn, *DyPolDroid: Protecting Users and Organizations from Permission-Abuse Attacks in Android*, The 9th International Conference Secure Knowledge Management (SKM 2021), San Antonio, TX, USA, October 8–9, 2021.
 
