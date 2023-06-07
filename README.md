@@ -10,11 +10,12 @@ On advancing my expertise in cybersecurity and undertaking critical challenges,*
 ## About Me
 <img align=left src="../images/jaejong.jpg"  width="20%">
 
-Hello, I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
+Hello, I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security. 
 
 🎓 Ph.D. Computer Science, Yonsei University, Seoul, Korea,  2011\
 🎓 M.S. Computer Science, Yonsei University, Seoul, Korea,  2001
-📨 jaejong at asu . edu
+📨 jaejong at asu . edu \
+
 ## Latest News
  1. Our paper ["**Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer**"](https://sefcom.asu.edu/publications/jaejong-dsn23.pdf){:target="_blank"} has been accepted in [IEEE IFIP DSN  2023 (June 27-30, Porto, Portugal)](https://dsn2023.dei.uc.pt/){:target="_blank"}  This paper presents novel privacy attacks against LTE using machine learning to identify patterns in the communication between the UEs and eNBs without breaking into users' devices and the base station.
 
