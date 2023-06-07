@@ -10,7 +10,7 @@ Hello, I am an Assistant Research Scientist, working for the [SEFCOM](https://se
 
 🎓 Ph.D. Computer Science, Yonsei University, Seoul, Korea,  2011\
 🎓 M.S. Computer Science, Yonsei University, Seoul, Korea,  2001\
-✉️ jaejong ☺️ asu.edu
+📨 jaejong at asu . edu
 ## Latest News
  1. Our paper ["**Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer**"](https://sefcom.asu.edu/publications/jaejong-dsn23.pdf){:target="_blank"} has been accepted in [IEEE IFIP DSN  2023 (June 27-30, Porto, Portugal)](https://dsn2023.dei.uc.pt/){:target="_blank"}  This paper presents novel privacy attacks against LTE using machine learning to identify patterns in the communication between the UEs and eNBs without breaking into users' devices and the base station.
 
