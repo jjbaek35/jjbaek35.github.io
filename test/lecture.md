@@ -11,7 +11,7 @@ This course will introduce students to the fundamentals of cybersecurity.
 In this course, we will explore security from the perspective of the web, following the entire technology stack from the CPU, to the kernel, userspace, networking, cryptography, and finally, all the way up to the browser and http server. Each lecture will consist of an introduction to a new topic, and an assignment for students to explore these concepts.
 
 ### 2023 SUMMER
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2237#detailsOpen=90637-123516" target="_blank"> Class Information </a>
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48728&searchType=all&term=2234&collapse=Y" target="_blank"> Class Information </a>
 
 ## CSE469 
 **Computer and Network Forensics**\
