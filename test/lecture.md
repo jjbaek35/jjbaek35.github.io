@@ -7,9 +7,7 @@ sort: 2
 
 ## CSE365 
 **Information Assurance**\
-This course will introduce students to the fundamentals of cybersecurity.
-In this course, we will explore security from the perspective of the web, following the entire technology stack from the CPU, to the kernel, userspace, networking, cryptography, and finally, all the way up to the browser and http server. Each lecture will consist of an introduction to a new topic, and an assignment for students to explore these concepts.
-
+This course serves as a platform for students to gain a solid understanding of the core aspects of cybersecurity. It presents an all-encompassing exploration of security, navigating from the intricate components of the Central Processing Unit (CPU) and kernel, through to userspace, network infrastructures, and cryptography, culminating in a detailed examination of both browser and HTTP server protocols. Each session will introduce a fresh topic, complemented by an assignment that facilitates hands-on exploration and comprehension of these fundamental cybersecurity concepts.
 ### 2023 SUMMER
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48728&searchType=all&term=2234&collapse=Y" target="_blank"> Class Information </a>
 
