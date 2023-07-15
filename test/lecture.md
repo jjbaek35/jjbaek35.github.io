@@ -18,7 +18,7 @@ This course serves as a platform for students to gain a solid understanding of t
 This course discusses the identification, extraction, documentation, interpretation, and preservation of computer media for evidentiary purposes and/or root cause analysis. Topics include techniques for discovering digital evidence; responding to electronic incidents; tracking communications through networks; understanding electronic media, crypto-literacy, data hiding, and system forensics; and the role of forensics in the digital environment.
 
 ### 2023 FALL
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=88662&searchType=all&term=2237&collapse=Y#detailsOpen=88662-104221" target="_blank"> Class information </a>
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=90637&searchType=all&term=2237&collapse=Y" target="_blank"> Class information </a>
 
 ## CSE598
 **Engineering Blockchain Applications**\
