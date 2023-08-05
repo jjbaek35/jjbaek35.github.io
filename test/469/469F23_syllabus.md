@@ -1,4 +1,4 @@
-># Syllabus
+># CSE469 FALL 2023 Syllabus
 Updated: Aug. 5, 2023
 
 ### 
@@ -61,49 +61,36 @@ This course discusses the identification, extraction, documentation, interpretat
 7.  ### 
     
     **Grading Policy (Tentative)**
-
+ 
+||
+|-|   
     a. Exams
-    
-    -   Midterm: 25%
+    - Midterm: 25%        
+    - Final: 25%
         
-    -   Final: 25%
+    b. Homework and Attendance    
+    -   Assignments: 20 % (Homework, hands-on assignment)        
+    -   Course Project: 25 %        
+    -   Attendance: 5%        
+    
+    Late work will receive a deduction of 20% per day late. 
+    Exceptions to this policy will be at the discretion of the instructor.
+    
+    c. Letter Grade Threshold    
+    -   A+ >=97, A >=93, A- >=90 B+ >=87 B >=83 B- >=80 C+ >=77 C >=70, 
+    -   D >= 60, E < 60      
+        ☛ I reserve the right to curve the grades 
+        (by lowering the thresholds)  and the weight, 
+        depending on the circumstances.    
         
-    
-    ### 
-    
-    b. Homework and Attendance
-    
-    -   Assignments: 20 % (Homework, hands-on assignment)
-        
-    -   Course Project: 25 %
-        
-    -   Attendance: 5%
-        
-    
-    Late work will receive a deduction of 20% per day late. Exceptions to this policy will be at the discretion of the instructor.
-    
-    ### 
-    
-    c. Letter Grade Threshold
-    
-    -   A+ >=97, A >=93, A- >=90 B+ >=87 B >=83 B- >=80 C+ >=77 C >=70, D >= 60, E < 60
-        
-    
-    ☛ I reserve the right to curve the grades (by lowering the thresholds) and the weight, depending on the circumstances.
-    
-    -   Grade scope: TBD
-        
-    
-    ### 
-    
-    d. Exam Proctoring
-    
-    If the exams are administered in class, notes, books, laptops, phones, smart devices (including watches), or calculators are not allowed during exams unless otherwise announced by the instructor in advance. Makeup exams will not be given except in extenuating circumstances as determined by the instructor.
-    
-    In the case of an online exam, the requirements will be announced separately before exams.
-    
-    If an exam date conflicts with a religious holiday (in accordance with [ACD 304-04](http://www.asu.edu/aad/manuals/acd/acd304-04.html)) or other university-sanctioned activities (in accordance with [ACD 304-02](http://www.asu.edu/aad/manuals/acd/acd304-02.html)) the student must inform the instructor at least two weeks before the exam date to schedule a makeup exam.
-
+    -   Grade scope: TBD  
+|
+    d. Exam Proctoring    
+    If the exams are administered in class, notes, books, laptops, phones, smart devices (including
+    watches), or calculators are not allowed during exams unless otherwise announced by the 
+    instructor in advance. Makeup exams will not be given except in extenuating circumstances as 
+    determined by the instructor. In the case of an online exam, the requirements will be announced separately before exams.
+    If an exam date conflicts with a religious holiday (in accordance with [ACD 304-04](http://www.asu.edu/aad/manuals/acd/acd304-04.html) or other university-sanctioned activities (in accordance with [ACD 304-02](http://www.asu.edu/aad/manuals/acd/acd304-02.html)) the student must inform the instructor at least two weeks before the exam date to schedule a makeup exam.
   
 
 ### 
@@ -137,8 +124,7 @@ Faculty may record class meetings to make an archived recording available to enr
 
   
 
-    a. Textbook
- 
+    a. Textbook: 
     All required information for the course will be provided in the lectures. However, I highly recommend these textbooks for those wanting to gain a deeper understanding of the principles we will discuss:
     
     - Guide To Computer Forensics and Investigations by Bill Nelson, Amelia Phillips, and Christopher Steuart, ISBN: 1337568945
@@ -146,29 +132,23 @@ Faculty may record class meetings to make an archived recording available to enr
     - Digital Forensics, Investigation, and Response by Chuck Easttom, Fourth Edition, 2022, ISBN: 9781284226065
      
     
-    b. Course Communication
-  
+    b. Course Communication: 
     All announcements and communications for the class will take place on Canvas and Discord :
     Students use Canvas to ask questions on any topic from the lectures or to discuss homework assignments. The TA, Instructor, or other students can respond or contribute to existing responses.
     
-    c. Warning
-
+    c. Warning: 
     Sharing solutions, answers, codes, etc. is expressly prohibited and will result in academic sanctions. Review the section below on Academic Integrity for more information.
     
-    d. Important
-
-     When you send a message via email or Canvas, the title must begin with "[CSE469]".
+    d. Important: 
+    When you send a message via email or Canvas, the title must begin with "[CSE469]".
     
-    e. Note
-
-     If you email the instructor or TA directly and we determine it will be useful for the rest of the class, we will repost it to Canvas. ASU email is an  official means of communication among students, faculty, and staff.
+    e. Note: 
+    If you email the instructor or TA directly and we determine it will be useful for the rest of the class, we will repost it to Canvas. ASU email is an  official means of communication among students, faculty, and staff.
     
     f. See also
-
-     The advice in [“How to Ask Questions the Smart Way”](http://www.catb.org/~esr/faqs/smart-questions.html) will increase the chances of others answering your question.
+    The advice in [“How to Ask Questions the Smart Way”](http://www.catb.org/~esr/faqs/smart-questions.html) will increase the chances of others answering your question.
     
-    g. Topics
-  
+    g. Topics: 
     The following is only a list of possible topics we will cover throughout the semester and may change as the semester progresses. 
 
 ||
@@ -281,5 +261,3 @@ Arizona State University is committed to providing an environment free of discri
 18. **Photo Requirement**
 
 Arizona State Universityrequireseach enrolled students and university employees to have on file with ASU a current photo that meets ASU's requirements (your "Photo"). ASU uses your Photo to identify you, as necessary, to provide you with educational and related services as an enrolled student at ASU. If you do not have an acceptable Photo on file with ASU, or if you do not consent to the use of your Photo, your access to ASU resources, including access to classes(online or in person) may be negatively affected or denied. Written with [StackEdit](https://stackedit.io/).
-
-
