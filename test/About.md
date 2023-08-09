@@ -6,7 +6,7 @@ sort: 0
 
 On advancing my expertise in cybersecurity and undertaking critical challenges, **my goal is to deliver my insights and findings to the pedagogical and research activities** so that it would tremendously help produce future
 leaders who would effectively manage our national cybersecurity issues.\
-Hello, I am an Assistant Research Scientist, working for the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
+Hello, I am an Assistant Teaching Professor, working for the [SCAI](https://scai.engineering.asu.edu/){:target="_blank"}, the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security.
 
 🎓 Ph.D. Computer Science, Yonsei University, Seoul, Korea,  2011\
 🎓 M.S. Computer Science, Yonsei University, Seoul, Korea,  2001\
