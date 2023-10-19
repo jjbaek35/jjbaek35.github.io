@@ -10,7 +10,7 @@ On advancing my expertise in cybersecurity and undertaking critical challenges,*
 ## About Me
 <img align=left src="../images/jaejong.jpg"  width="20%">
 
-Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.engineering.asu.edu/){:target="_blank"}, the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in the filed of mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security. 
+Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} and the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab <!--- and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} --> at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security. 
 
 🎓 Ph.D. Computer Science, Yonsei University, Seoul, Korea,  2011\
 🎓 M.S. Computer Science, Yonsei University, Seoul, Korea,  2001
@@ -29,7 +29,7 @@ Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.eng
 
 6. Our extended edition of the Dypoldroid paper has been accepted to [Information Systems Frontier](https://www.springer.com/journal/10796){:target="_blank"}s: **DyPolDroid: Protecting Against Permission-Abuse Attacks in Android** in August 2022. (Impact Factor: 5.261)
 
-7. Our paper has been accepted to [Applied Energ](https://www.journals.elsevier.com/applied-energy){:target="_blank"}, titled [A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange](https://doi.org/10.1016/j.apenergy.2020.116208){:target="_blank"} in November 2020. (Impact Factor: 8.848)
+7. Our paper has been accepted to [Applied Energy](https://www.journals.elsevier.com/applied-energy){:target="_blank"}, titled [A Secure Distributed Ledger for Transactive Energy: The Electron Volt Exchange](https://doi.org/10.1016/j.apenergy.2020.116208){:target="_blank"} in November 2020. (Impact Factor: 8.848)
 
 8. Our team (Jaejong Baek, Sukwha Kyung, Gail-Joon Ahn) was recognized as the Most Innovative Capability in the Blockchain Innovation Challenge hosted by ASURE. The title of the project is [**"Cryptographic Key Management System using a Distributed Shared Ledger**.](https://twitter.com/ASUREASU/status/1138645169828294656){:target="_blank"} (Patent issued)
 
