@@ -8,6 +8,7 @@ sort: 2
 ## CSE365 
 **Information Assurance**\
 This course serves as a platform for students to gain a solid understanding of the core aspects of cybersecurity. It presents an all-encompassing exploration of security, navigating from the intricate components of the Central Processing Unit (CPU) and kernel, through to userspace, network infrastructures, and cryptography, culminating in a detailed examination of both browser and HTTP server protocols. Each session will introduce a fresh topic, complemented by an assignment that facilitates hands-on exploration and comprehension of these fundamental cybersecurity concepts.
+
 **- Class:2024 Spring, 2023 Fall, 2023 Summer**
 
 <!-- 
