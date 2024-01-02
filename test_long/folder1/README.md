@@ -7,7 +7,7 @@ source: `{{ page.path }}` -->
 | Title          | Link               |
 | ----------------- |:----------------------- |
 | SEFCOM      | [:link:][GitHub-Sync]   |
-| CDF | [:link:][HackMD-it]     |
+| CTF | [:link:][HackMD-it]     |
 | Project Dashboard (private) | [:link:][Book-mode]     |
 | LinkedIn        | [:link:][Slide-mode]    | 
 | Google Scholar Citation  | [:link:][Share-Publish] |
