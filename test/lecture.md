@@ -30,9 +30,9 @@ This course discusses the identification, extraction, documentation, interpretat
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13282&searchType=all&term=2241&collapse=Y" target="_blank"> 2024 Spring</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=84246&searchType=all&term=2237&collapse=Y" target="_blank"> 2023 Fall</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13565&searchType=all&term=2231&collapse=Y" target="_blank"> 2023 Spring</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2227" target="_blank"> 2022 FALL </a>
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2221" target="_blank"> 2022 SPRING </a>
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2211" target="_blank"> 2021 SPRING </a>
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2227" target="_blank"> 2022 FALL </a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2221" target="_blank"> 2022 SPRING </a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2211" target="_blank"> 2021 SPRING </a>,
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2201" target="_blank"> 2020 SPRING </a>
 
 <!-- 
