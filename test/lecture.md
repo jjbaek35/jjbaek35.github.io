@@ -21,7 +21,8 @@ This course serves as a platform for students to gain a solid understanding of t
 ## CSE469 
 **Computer and Network Forensics**\
 This course discusses the identification, extraction, documentation, interpretation, and preservation of computer media for evidentiary purposes and/or root cause analysis. Topics include techniques for discovering digital evidence; responding to electronic incidents; tracking communications through networks; understanding electronic media, crypto-literacy, data hiding, and system forensics; and the role of forensics in the digital environment.
-### Class: 2024 Spring, 2023 Fall/Summer, 2022 Fall/Spring, 2021 Spring, 2020 Spring
+
+**- Class: 2024 Spring, 2023 Fall/Summer, 2022 Fall/Spring, 2021 Spring, 2020 Spring**
 <!-- 
 ### 2023 FALL
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=90637&searchType=all&term=2237&collapse=Y" target="_blank"> Class information </a>
@@ -30,14 +31,16 @@ This course discusses the identification, extraction, documentation, interpretat
 ## CSE543
 **Information Assurance and Security**\
 This course will provide students with a comprehensive understanding of the problems of information assurance (IA) and security, and possible solutions to these problems, especially the security of information systems and operating environments. This course will also focus on IA technology as well as IA policy, management, legal and ethical issues.
-### Class: 2024 Spring
+
+**- Class: 2024 Spring**
 
 
 ## CSE598
 **Engineering Blockchain Applications**\
 This course ensures that learners will be well-versed in blockchain fundamentals. This is designed to put learners on the leading edge by presenting the abstract
 nature of blockchain technology and emphasizing its broad applicability. Topics include the mathematical and cryptographic underpinnings of the technology, as well as mining, consensus protocols, networking, and decentralized governance.
-### Class: 2023 Fall
+
+**- Class: 2023 Fall**
 
 <!-- 
 ### 2023 FALL
