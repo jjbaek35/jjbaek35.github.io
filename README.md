@@ -18,7 +18,7 @@ Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.eng
 📫 jaejong at asu . edu
 
 ## Latest News
- 1. I am grateful to share that since August of this year, I have embarked on a new semester as an assistant teaching professor in the [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} at ASU. I am truly thankful for this opportunity.
+ 1. I am grateful to share that since August of this year, I have embarked on a new semester as an assistant teaching professor in the [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} at ASU since Aug. 2023. I am truly thankful for this opportunity.
  2. Our paper ["**Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer**"](https://sefcom.asu.edu/publications/jaejong-dsn23.pdf){:target="_blank"} has been accepted in [IEEE IFIP DSN  2023 (June 27-30, Porto, Portugal)](https://dsn2023.dei.uc.pt/){:target="_blank"}  This paper presents novel privacy attacks against LTE using machine learning to identify patterns in the communication between the UEs and eNBs without breaking into users' devices and the base station.
 
 3. Our paper ["**SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality**"](https://sefcom.asu.edu/publications/jaejong-sactmat23.pdf){:target="_blank"} has been accepted in [SACMAT 2023 (June 7-9, Trento, Italy)](https://sacmat2023.fbk.eu/){:target="_blank"}. We present a new approach for managing access control policies in a mobile augmented reality (MAR) application based on policy-governed MAR apps against space invasion, space affectation attacks, and privacy leaks.
