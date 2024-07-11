@@ -33,15 +33,13 @@ This course discusses the identification, extraction, documentation, interpretat
 ## CSE535
 **Mobile Computing**\
 Mobile networking, mobile information access, adaptive applications, energy-aware systems, location-aware computing, mobile security and privacy.
-- Class:
-- <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> Fall 2024</a>, 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> Fall 2024</a>, 
 
 ## CSE543
 **Information Assurance and Security**\
 This course will provide students with a comprehensive understanding of the problems of information assurance (IA) and security, and possible solutions to these problems, especially the security of information systems and operating environments. This course will also focus on IA technology as well as IA policy, management, legal and ethical issues.
 
-- Class: [Fall 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696)
-- Class: [Spring 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=27725&searchType=all&term=2241#detailsOpen=27725-120209)
+- Class: [Fall 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696), [Spring 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=27725&searchType=all&term=2241#detailsOpen=27725-120209)
 
 ## CSE548
 **Advanced Computer Network Security**\
