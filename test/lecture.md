@@ -39,13 +39,13 @@ Mobile networking, mobile information access, adaptive applications, energy-awar
 **Information Assurance and Security**\
 This course will provide students with a comprehensive understanding of the problems of information assurance (IA) and security, and possible solutions to these problems, especially the security of information systems and operating environments. This course will also focus on IA technology as well as IA policy, management, legal and ethical issues.
 
-- Class: [Fall 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696), [Spring 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=27725&searchType=all&term=2241#detailsOpen=27725-120209)
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696" target="_blank"> Spring 2024</a>
 
 ## CSE548
 **Advanced Computer Network Security**\
 Comprehensive understanding of network security and corresponding solutions, including cryptography, access control, secure Web transactions, e-mail security, and viruses.
 
-- Class: [Fall 2024](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=43286&searchType=all&term=2244#detailsOpen=43286)
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=43286&searchType=all&term=2244#detailsOpen=43286" target="_blank"> Summer 2024</a>
 
 
 ## CSE598
@@ -53,10 +53,10 @@ Comprehensive understanding of network security and corresponding solutions, inc
 This course ensures that learners will be well-versed in blockchain fundamentals. This is designed to put learners on the leading edge by presenting the abstract
 nature of blockchain technology and emphasizing its broad applicability. Topics include the mathematical and cryptographic underpinnings of the technology, as well as mining, consensus protocols, networking, and decentralized governance.
 
-- Class: [Fall 2023](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=84246&searchType=all&term=2237#detailsOpen=84246-104278)
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=84246&searchType=all&term=2237#detailsOpen=84246-104278" target="_blank"> Fall 2023</a>
 
 ## ASU 101
 **The ASU Experience**\
 Students will learn about ASU's mission as the New American University, the importance and benefits of an entrepreneurial approach to problem solving, solutions to sustainability challenges, and the importance of social embeddedness. Additionally, through various course discussions and assignments, students will examine the concept of academic integrity and its potential impact on their future, gain awareness of the value of engaging in research activities, and learn about taking an interdisciplinary perspective.
 
-- Class: [Fall 2024](https://catalog.apps.asu.edu/catalog/courses/courselist?subject=ASU&catalogNbr=101-CAI&term=2247&collapse=Y)- 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/courses/courselist?subject=ASU&catalogNbr=101-CAI&term=2247&collapse=Y" target="_blank"> Fall 2024</a>
