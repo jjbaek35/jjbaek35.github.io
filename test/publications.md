@@ -59,7 +59,7 @@ sort: 3
 
 • US11588631, **Jaejong Baek**, Sukwha Kyung, Gail-Joon Ahn, [*Systems and Methods for Blockchain-Based Automatic Key Generation*](https://patents.google.com/patent/US11588631B2/en?q=(baek)&inventor=jaejong&oq=jaejong+baek){:target="_blank"}, Issued on 02/21/2023
 
-• [18/461,421](https://patentcenter.uspto.gov/applications/18461421/ifw/docs?application=){:target="_blank"}, Luis Claramunt, Carlos Rubio-Medrano, **Jaejong Baek**, Gail-Joon Ahn, *Systems and Methods for a Policy-Governed Content Mediation Model for Mobile Augmented Reality Applications*, Non-Provisional, Filed on 09/05/2023
+• 18/461,421, Luis Claramunt, Carlos Rubio-Medrano, **Jaejong Baek**, Gail-Joon Ahn, [*Systems and Methods for a Policy-Governed Content Mediation Model for Mobile Augmented Reality Applications*](https://patentcenter.uspto.gov/applications/18461421/ifw/docs?application=){:target="_blank"}, Non-Provisional, Filed on 09/05/2023
 
 ## Other Publications
 
