@@ -1,7 +1,6 @@
 # Jaejong Baek
 
-!(https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/A3Lq5HIcTpqm9DcgGC5Oag"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/A3Lq5HIcTpqm9DcgGC5Oag/image"></a><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Jaejong (JJ) Baek</span></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
 ## Mission Statement
 
