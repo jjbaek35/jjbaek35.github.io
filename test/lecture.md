@@ -33,7 +33,7 @@ This course discusses the identification, extraction, documentation, interpretat
 ## CSE535
 **Mobile Computing**\
 Mobile networking, mobile information access, adaptive applications, energy-aware systems, location-aware computing, mobile security and privacy.
-- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> Fall 2024</a>, 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> Fall 2024</a> 
 
 ## CSE543
 **Information Assurance and Security**\
