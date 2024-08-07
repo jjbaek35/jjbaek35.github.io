@@ -40,7 +40,7 @@ Mobile networking, mobile information access, adaptive applications, energy-awar
 This course will provide students with a comprehensive understanding of the problems of information assurance (IA) and security, and possible solutions to these problems, especially the security of information systems and operating environments. This course will also focus on IA technology as well as IA policy, management, legal and ethical issues.
 
 - Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696" target="_blank"> Spring 2024</a>,
-<a href="[https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696-12020" target="_blank"> Fall 2024</a>
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696-12020" target="_blank"> Fall 2024</a>
 
 ## CSE548
 **Advanced Computer Network Security**\
