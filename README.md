@@ -15,7 +15,7 @@ Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.eng
 📫 jaejong at asu . edu
 
 ## Latest News
-1. Our paper ["**Unveiling SDN Controller Identity through Timing Side Channel**"](../papers/dsn23.pdf){:target="_blank"} has been accepted in [15th International Conference on Network of the Future (October 02-04, 2024, Castelldefels (Barcelona), Spain)](http://nof.dnac.org/){:target="_blank"}. This paper presents a novel approach to fingerprinting SDN controllers using timing side channels and deep learning techniques.
+1. Our paper ["**Unveiling SDN Controller Identity through Timing Side Channel**"](../papers/nof2024.pdf){:target="_blank"} has been accepted in [15th International Conference on Network of the Future (October 02-04, 2024, Castelldefels (Barcelona), Spain)](http://nof.dnac.org/){:target="_blank"}. This paper presents a novel approach to fingerprinting SDN controllers using timing side channels and deep learning techniques.
 
 2. Our paper ["**Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer**"](https://sefcom.asu.edu/publications/jaejong-dsn23.pdf){:target="_blank"} has been accepted in [IEEE IFIP DSN  2023 (June 27-30, 2023, Porto, Portugal)](https://dsn2023.dei.uc.pt/){:target="_blank"}.  This paper presents novel privacy attacks against LTE using machine learning to identify patterns in the communication between the UEs and eNBs without breaking into users' devices and the base station.
 
