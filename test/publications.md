@@ -5,7 +5,7 @@ sort: 3
 
 
 ## Papers 
-25. Sukwha Kyung, **Jaejong Baek** and Gail-Joon Ahn, [*Unveiling SDN Controller Identity through Timing Side Channel*](){:target="_blank"}, 15th International Conference on Network of the Future (NoF), Castelldefels (Barcelona), Spain, October 02-04, 2024
+25. Sukwha Kyung, **Jaejong Baek** and Gail-Joon Ahn, [*Unveiling SDN Controller Identity through Timing Side Channel*](../papers/nof2024.pdf){:target="_blank"}, 15th International Conference on Network of the Future (NoF2024), Castelldefels (Barcelona), Spain, October 02-04, 2024
 
 24. **Jaejong Baek**, P. Soundrapandian, S. Kyung, R. Wang, Y. Shoshitaishvili, A. Doup ́e, G. Ahn, [*Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer*](../papers/dsn23.pdf){:target="_blank"}, The 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2023), Porto, Portugal, June 27-30, 2023.
 
