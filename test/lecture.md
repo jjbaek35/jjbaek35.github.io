@@ -13,7 +13,7 @@ This course serves as a platform for students to gain a solid understanding of t
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48695&searchType=all&term=2244#detailsOpen=48695" target="_blank"> Summer 2024</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=17217&searchType=all&term=2241&collapse=Y" target="_blank"> Spring 2024</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=88662&searchType=all&term=2237&collapse=Y" target="_blank"> Fall 2023</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48728&searchType=all&term=2234&collapse=Y" target="_blank"> Summer 2023</a>
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48728&searchType=all&term=2234&collapse=Y" target="_blank"> Summer 2023</a>.
 
 
 ## CSE469 
