@@ -5,7 +5,7 @@ sort: 3
 
 
 ## Papers 
-27. Souradip Nath, Keb Summers, **Jaejong Baek** and Gail-Joon Ahn, [Digital Evidence Chain of Custody: Navigating New Realities of Digital Forensics](../papers/tps24.pdf){:target="_blank"}, The Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, Washington D.C., USA, October 28-30, 2024 
+27. Souradip Nath, Keb Summers, **Jaejong Baek** and Gail-Joon Ahn, [*Digital Evidence Chain of Custody: Navigating New Realities of Digital Forensics*](../papers/tps2024.pdf){:target="_blank"}, The Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, Washington D.C., USA, October 28-30, 2024 
 
 26. Sukwha Kyung, **Jaejong Baek** and Gail-Joon Ahn, [*Unveiling SDN Controller Identity through Timing Side Channel*](../papers/nof2024.pdf){:target="_blank"}, 15th International Conference on Network of the Future (NoF2024), Castelldefels (Barcelona), Spain, October 02-04, 2024
 
