@@ -20,6 +20,7 @@ Developing security-enhanced authorization framework aimed to detect and protect
 - [DyPolDroid: Protecting against permission-abuse attacks in Android](https://jjbaek35.github.io/papers/Dypoldroid_skm.pdf),  Information Systems Frontiers 2022
 - [MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract
 ](https://jjbaek35.github.io/papers/MuTent.pdf), HICSS -54, 2021.
+
 ### Vehicle Secuirty
 Exploring cybersecurity issues in vehicle, V2X (Vehicle-to-Everything), and automotive such as 5G NAD (Network Access Device) modules and HTA technology (Hardware Trust Anchor).
 
