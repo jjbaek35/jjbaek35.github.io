@@ -15,7 +15,7 @@ Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.eng
 📫 jaejong at asu . edu
 
 ## Latest News
-1. Our paper ["**It's almost like Frankenstein": Investigating the Complexities
+1. Our paper ["**It's almost like Frankenstein: Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
 Computing Infrastructures**"](http://nof.dnac.org/){:target="_blank"} has been accepted in [46th IEEE Symposium on
 Security and Privacy (May 12-15, 2025, SAN FRANCISCO, IEEE S&P 2025)](https://sp2025.ieee-security.org/){:target="_blank"}. This paper examines security considerations in research computing infrastructures (RCIs) through interviews with experts and stakeholders, highlighting a layered access control approach that challenges traditional models, as collaborative, trust-based sharing raises compliance concerns, and concludes with recommendations to enhance RCI security and flexibility.
