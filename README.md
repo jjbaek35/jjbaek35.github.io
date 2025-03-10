@@ -17,8 +17,9 @@ Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.eng
 ## Latest News
 1. Our paper ["**It's almost like Frankenstein": Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
-Computing Infrastructures**"]{:target="_blank"} has been accepted in [46th IEEE Symposium on
+Computing Infrastructures**"](http://nof.dnac.org/){:target="_blank"} has been accepted in [46th IEEE Symposium on
 Security and Privacy (May 12-15, 2025, SAN FRANCISCO, IEEE S&P 2025)](https://sp2025.ieee-security.org/){:target="_blank"}. This paper examines security considerations in research computing infrastructures (RCIs) through interviews with experts and stakeholders, highlighting a layered access control approach that challenges traditional models, as collaborative, trust-based sharing raises compliance concerns, and concludes with recommendations to enhance RCI security and flexibility.
+
 2. Our paper ["**Unveiling SDN Controller Identity through Timing Side Channel**"](../papers/nof2024.pdf){:target="_blank"} has been accepted in [15th International Conference on Network of the Future (October 02-04, 2024, Castelldefels (Barcelona), Spain)](http://nof.dnac.org/){:target="_blank"}. This paper presents a novel approach to fingerprinting SDN controllers using timing side channels and deep learning techniques.
 
 3. Our paper ["**Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer**"](https://sefcom.asu.edu/publications/jaejong-dsn23.pdf){:target="_blank"} has been accepted in [IEEE IFIP DSN  2023 (June 27-30, 2023, Porto, Portugal)](https://dsn2023.dei.uc.pt/){:target="_blank"}.  This paper presents novel privacy attacks against LTE using machine learning to identify patterns in the communication between the UEs and eNBs without breaking into users' devices and the base station.
