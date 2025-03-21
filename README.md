@@ -9,8 +9,9 @@ On advancing my expertise in cybersecurity and undertaking critical challenges,*
 
 Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} and the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab <!--- and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} --> at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security. 
 
-🎓 Ph.D. Computer Science, Yonsei University, Seoul, Korea,  2011\
-🎓 M.S. Computer Science, Yonsei University, Seoul, Korea,  2001
+🎓 School of Computing and Augmented Intelligence,\  
+🎓 Ira A. Fulton Schools of Engineering,\
+🎓 Arizona State University
 
 📫 jaejong at asu . edu
 
