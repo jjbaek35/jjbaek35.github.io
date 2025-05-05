@@ -7,7 +7,7 @@ sort: 3
 ## Papers 
 28.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
-Computing Infrastructures*](https://sp2025.ieee-security.org/){:target="_blank"}, 46th IEEE Symposium on
+Computing Infrastructures*](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c995/26hiVfWPKog){:target="_blank"}, 46th IEEE Symposium on
 Security and Privacy (IEEE S&P 2025), San Francisco, USA, May 12-15, 2025 
 
 27. Souradip Nath, Keb Summers, **Jaejong Baek** and Gail-Joon Ahn, [*Digital Evidence Chain of Custody: Navigating New Realities of Digital Forensics*](../papers/tps2024.pdf){:target="_blank"}, The Sixth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, Washington D.C., USA, October 28-30, 2024 
