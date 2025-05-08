@@ -28,7 +28,8 @@ Exploring cybersecurity issues in vehicle, V2X (Vehicle-to-Everything), and auto
 
 ### Science Access
 This project funded by [NSF (#2232911)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2232911){:target="_blank"} and aims to develop ScienceAccess, a federated framework supporting the storage, retrieval, evaluation, and enforcement of AM-Policies that allows scientists and administrators to manage their resource-sharing needs with a high degree of autonomy.
-
+- [It's almost like Frankenstein: Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures, ](https://jjbaek35.github.io/papers/sp2025.pdf), IEEE S&P 2025
+  
 ### Mobile Augmented Rreality
 - [SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality](https://jjbaek35.github.io/papers/sacmat23.pdf), SACMAT2023
 
