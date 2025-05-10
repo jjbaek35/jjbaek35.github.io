@@ -16,6 +16,7 @@ As a complted project, LTE privacy attacks based on machine learning solutions t
 
 ### Android Secuirty
 Developing security-enhanced authorization framework aimed to detect and protect against emerging PendingIntent-based attacks abusing excess privileges for the escalation and unauthorized invoke
+- [PendingMutent: An Authorization Framework for Preventing PendingIntent Attacks in Android-based Mobile Cyber-Physical Systems](../papers/pending-mutent-satcps2025.pdf), SaT-CPS 2025
 - [DyPolDroid: Protecting against permission-abuse attacks in Android](https://jjbaek35.github.io/papers/Dypoldroid_skm.pdf),  Information Systems Frontiers 2022
 - [MuTent: Dynamic Android Intent Protection with Ownership-Based Key Distribution and Security Contract](https://jjbaek35.github.io/papers/MuTent.pdf), HICSS -54, 2021.
 
