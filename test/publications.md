@@ -5,7 +5,7 @@ sort: 3
 
 
 ## Papers 
-28.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
+29.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
 Computing Infrastructures*](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c995/26hiVfWPKog){:target="_blank"}, 46th IEEE Symposium on
 Security and Privacy (IEEE S&P 2025), San Francisco, USA, May 12-15, 2025
