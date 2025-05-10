@@ -4,7 +4,7 @@ sort: 0
 ## About Me
 <img align=left src="../images/jaejong.jpg"  width="20%">
 
-Hello, I am an Assistant Teaching Professor, working for [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} and the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab <!--- and [Center for Cybersecurity and Trusted Foundations (CTF)](https://globalsecurity.asu.edu/cybersecurity-and-trusted-foundations){:target="_blank"} --> at [Arizona State University](https://www.asu.edu/) as. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, Digital Forensics, and Vehicle security. 
+Hello, I am an Assistant Teaching Professor at Arizona State University ([ASU](https://www.asu.edu/)'s School of Computing and Augmented Intelligence [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} and the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, and Digital Forensics.I don’t aim to be the outstanding instructor or researcher—but I do hope to be an educator who prepares with care and teaches with the conviction that I should always be useful to someone, in some way.
 
 📫 jaejong at asu . edu
 
