@@ -4,18 +4,13 @@ sort: 0
 ## About Me
 <img align=left src="../images/jaejong.jpg"  width="20%">
 
-Hello, I am an Assistant Teaching Professor at [Arizona State University](https://www.asu.edu/){:target="_blank"}, School of Computing and Augmented Intelligence [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} and the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, and Digital Forensics. I don’t aim to be the outstanding instructor or researcher—but I do hope to be an educator who prepares with care and teaches with the conviction that I should always be useful to someone, in some way. ☕ After a whirlwind semester teaching four sections with around 700 undergrads and over 100 grad students, I’m grateful to say I made it through! I also wrapped up six master’s thesis defenses and two honors thesis reviews. It kind of feels like finishing a marathon. Now it’s time for a short break—then back to prepping for the fall semester.
+Hello, I am an Assistant Teaching Professor at [Arizona State University](https://www.asu.edu/){:target="_blank"}, School of Computing and Augmented Intelligence [SCAI](https://scai.engineering.asu.edu/){:target="_blank"} and the [SEFCOM](https://sefcom.asu.edu/){:target="_blank"} lab. I received my Ph.D. from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.jsp){:target="_blank"} in South Korea. My research interests lie in mobile and wireless network security issues like Telco (5G), Access Control, Blockchain, and Digital Forensics. I don’t aim to be the outstanding instructor or researcher—but I do hope to be an educator who prepares with care and teaches with the conviction that I should always be useful to someone, in some way. ☕ This fall semester 2025, I'll be teaching a total of 5 courses with around 1,000 students. I know it will be physically demanding, so I must remember to prioritize my health. I'll stay committed and teach with a diligent and humble attitude, never taking a single moment for granted.
 
 
 📫 jaejong at asu . edu
 
 ## Latest News
-1. Our paper [Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences](https://www.sciencedirect.com/science/article/pii/S0160791X25002325){:target="_blank"} has been accepted in Technology in Society. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
-  
-3.   ["**It's almost like Frankenstein": Investigating the Complexities
-of Scientific Collaboration and Privilege Management within Research
-Computing Infrastructures**"](https://sp2025.ieee-security.org/){:target="_blank"} has been accepted in [46th IEEE Symposium on
-Security and Privacy (May 12-15, 2025, SAN FRANCISCO, USA)](https://sp2025.ieee-security.org/){:target="_blank"}. This paper examines security considerations in research computing infrastructures (RCIs) through interviews with experts and stakeholders, highlighting a layered access control approach that challenges traditional models, as collaborative, trust-based sharing raises compliance concerns, and concludes with recommendations to enhance RCI security and flexibility.
+1. Our paper ["**Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences**"](https://www.sciencedirect.com/science/article/pii/S0160791X25002325){:target="_blank"} has been accepted in Technology in Society. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
 
 1. Our paper ["**It's almost like Frankenstein": Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
