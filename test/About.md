@@ -10,6 +10,13 @@ Hello, I am an Assistant Teaching Professor at [Arizona State University](https:
 📫 jaejong at asu . edu
 
 ## Latest News
+1. Our paper [Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences](https://www.sciencedirect.com/science/article/pii/S0160791X25002325){:target="_blank"} has been accepted in Technology in Society. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
+  
+3.   ["**It's almost like Frankenstein": Investigating the Complexities
+of Scientific Collaboration and Privilege Management within Research
+Computing Infrastructures**"](https://sp2025.ieee-security.org/){:target="_blank"} has been accepted in [46th IEEE Symposium on
+Security and Privacy (May 12-15, 2025, SAN FRANCISCO, USA)](https://sp2025.ieee-security.org/){:target="_blank"}. This paper examines security considerations in research computing infrastructures (RCIs) through interviews with experts and stakeholders, highlighting a layered access control approach that challenges traditional models, as collaborative, trust-based sharing raises compliance concerns, and concludes with recommendations to enhance RCI security and flexibility.
+
 1. Our paper ["**It's almost like Frankenstein": Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
 Computing Infrastructures**"](https://sp2025.ieee-security.org/){:target="_blank"} has been accepted in [46th IEEE Symposium on
