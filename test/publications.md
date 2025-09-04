@@ -7,11 +7,6 @@ sort: 3
 ## Papers 
 30. Songkhun Nillasithanukroh, Chul Hyun Park, **Jaejong Baek**, Gail-Joon Ahn, Robert Richards, [Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences](../papers/tis_2025.pdf){:target="_blank"}, Technology in Society Journal, Elsevier, August 20, 2025
 
-33.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
-of Scientific Collaboration and Privilege Management within Research
-Computing Infrastructures*](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c995/26hiVfWPKog){:target="_blank"}, 46th IEEE Symposium on
-Security and Privacy (Oakland), San Francisco, USA, May 12-15, 2025
-
 29.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
 Computing Infrastructures*](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c995/26hiVfWPKog){:target="_blank"}, 46th IEEE Symposium on
