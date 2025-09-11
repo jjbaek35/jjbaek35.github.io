@@ -12,7 +12,7 @@ Hello, I am an Assistant Teaching Professor at [Arizona State University](https:
 📫 jaejong at asu . edu
 
 ## Latest News
-0. Our paper ["**Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences**"](../papers/tis_2025.pdf){:target="_blank"} has been accepted in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society)https://www.sciencedirect.com/journal/technology-in-society on August 20, 2025. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
+0. Our paper ["**Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences**"](../papers/tis_2025.pdf){:target="_blank"} has been accepted in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society){:target="_blank"} on August 20, 2025. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
 
 1. Our paper ["**It's almost like Frankenstein: Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
