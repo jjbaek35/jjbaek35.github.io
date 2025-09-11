@@ -9,7 +9,7 @@ sort: 3
 
 29.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
-Computing Infrastructures*](https://www.computer.org/csdl/proceedings-article/sp/2025/223600c995/26hiVfWPKog){:target="_blank"}, 46th IEEE Symposium on
+Computing Infrastructures*](../papers/sp2025.pdf){:target="_blank"}, 46th IEEE Symposium on
 Security and Privacy (Oakland), San Francisco, USA, May 12-15, 2025
 
 28. Pradeep Kumar Duraisamy Soundrapandian, Carlos Rubio-Medrano, **Jaejong Baek**, S Geetha, [PendingMutent: An Authorization Framework for Preventing PendingIntent Attacks in Android-based Mobile Cyber-Physical Systems](../papers/pending-mutent-satcps2025.pdf){:target="_blank"}, [ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS 2025)](https://sites.google.com/view/sat-cps-2025), Pittsburgh, Pennsylvania, USA, June 6, 2025
