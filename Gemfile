@@ -1,5 +1,10 @@
-source "https://rubygems.org" # source "https://gems.ruby-china.com"
-
-gemspec
+source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
+
+group :jekyll_plugins do
+  gem "jemoji"
+  gem "jekyll-avatar"
+  gem "jekyll-mentions"
+end
