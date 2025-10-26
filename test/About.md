@@ -10,7 +10,11 @@ Hello, I am an Assistant Teaching Professor at [Arizona State University](https:
 📫 jaejong at asu . edu
 
 ## Latest News
-1. Our paper ["**Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences**"](../papers/tis_2025.pdf){:target="_blank"} has been accepted in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society){:target="_blank"} on August 20, 2025. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
+1. Our Paper **"Harnessing Software-Defined Network for Cyber Deception Modeling and Analysis"** has been accepted in [11th IEEE Conference on Network Functions Virtualization and Software-Defined Networking (IEEE NFV-SDN 2025)](https://nfvsdn2025.ieee-nfvsdn.org/) on Nov. 10-12, 2025, The paper proposes an SDN-based platform for centralized management and evaluation of cyber deception strategies by bridging theoretical deception models and practical experimentation. 
+
+2. Our paper **"Towards Collaboration-Aware Resource Sharing in Research Computing Infrastructures"** has been accepted in [11th IEEE International Conference on Collaboration and Internet Computing (CIC)](https://www.sis.pitt.edu/lersais/conference/cic/2025/){:target="_blank"} on  Nov. 11-14, 2025, This paper addresses inadequate project-centric data sharing in Research Computing Infrastructures with a formal framework for modeling collaborative contexts with dynamic access management.
+
+3. Our paper ["**Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences**"](../papers/tis_2025.pdf){:target="_blank"} has been accepted in [Technology in Society](https://www.sciencedirect.com/journal/technology-in-society){:target="_blank"} on August 20, 2025. This journal paper highlights the importance of these non-technological elements and recommends that future research adopt an integrative approach to better understand their dynamic interplay and long-term consequences.
 
 1. Our paper ["**It's almost like Frankenstein": Investigating the Complexities
 of Scientific Collaboration and Privilege Management within Research
