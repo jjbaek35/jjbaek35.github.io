@@ -2,7 +2,7 @@ title: Jaejong's Home
 description: Research and Teaching Story by Jaejong (JJ) Baek
 
 # theme: jekyll-rtd-theme
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: rundocs/jekyll-rtd-theme@main
 
 # debug:
 #   compress: true
