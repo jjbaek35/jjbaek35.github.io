@@ -19,6 +19,7 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-rtd-theme
 
 
 exclude:
