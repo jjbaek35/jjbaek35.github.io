@@ -12,6 +12,9 @@ Hello, I am an Assistant Teaching Professor at [Arizona State University](https:
 📫 jaejong at asu . edu
 
 ## Latest News
+1. Our Paper **"Deception by Design: A Configurable Platform for Flexible Cyber Deception Strategy Testing and Evaluation"** has been accepted in [The 24th International Conference on Applied Cryptography and Network
+Security (ACNS 2026)](https://acns2026.github.io/){:target="_blank"} on June, 22-25, 2026, This paper presents Cyber Deception Gym (CDGym), a configurable platform designed to address the disconnection between abstract deception strategies and their practical implementation.
+
 1. Our Paper **"Harnessing Software-Defined Network for Cyber Deception Modeling and Analysis"** has been accepted in [11th IEEE Conference on Network Functions Virtualization and Software-Defined Networking (IEEE NFV-SDN 2025)](https://nfvsdn2025.ieee-nfvsdn.org/){:target="_blank"} on Nov. 10-12, 2025, The paper proposes an SDN-based platform for centralized management and evaluation of cyber deception strategies by bridging theoretical deception models and practical experimentation. 
 
 2. Our paper **"Towards Collaboration-Aware Resource Sharing in Research Computing Infrastructures"** has been accepted in [11th IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2025)](https://www.sis.pitt.edu/lersais/conference/cic/2025/){:target="_blank"} on  Nov. 11-14, 2025, This paper addresses inadequate project-centric data sharing in Research Computing Infrastructures with a formal framework for modeling collaborative contexts with dynamic access management.
