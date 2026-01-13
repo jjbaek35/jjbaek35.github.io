@@ -10,6 +10,7 @@ sort: 2
 This course serves as a platform for students to gain a solid understanding of the core aspects of cybersecurity. It presents an all-encompassing exploration of security, navigating from the intricate components of the Central Processing Unit (CPU) and kernel, through to userspace, network infrastructures, and cryptography, culminating in a detailed examination of both browser and HTTP server protocols. Each session will introduce a fresh topic, complemented by an assignment that facilitates hands-on exploration and comprehension of these fundamental cybersecurity concepts.
 
 - Class:
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=28611-104221?keywords=28611&searchType=all&term=2261#detailsOpen=28611-104221" target="_blank"> Spring 26</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=80965-104221?keywords=80965&searchType=all&term=2257#detailsOpen=80965-104221" target="_blank"> Fall 25</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=16597&searchType=all&term=2251#detailsOpen=16597" target="_blank"> Spring 25</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48695&searchType=all&term=2244#detailsOpen=48695" target="_blank"> Summer 24</a>, 
@@ -23,6 +24,7 @@ This course serves as a platform for students to gain a solid understanding of t
 This course discusses the identification, extraction, documentation, interpretation, and preservation of computer media for evidentiary purposes and/or root cause analysis. Topics include techniques for discovering digital evidence; responding to electronic incidents; tracking communications through networks; understanding electronic media, crypto-literacy, data hiding, and system forensics; and the role of forensics in the digital environment.
 
 - Class: 
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=12797-123516?keywords=12797&searchType=all&term=2261#detailsOpen=12797-123516" target="_blank"> Spring 26</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=81196-123516?keywords=81196&searchType=all&term=2257#detailsOpen=81196-123516" target="_blank"> Fall 25</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13026&searchType=all&term=2251#detailsOpen=13026" target="_blank"> Spring 25</a>, 
 <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86694&searchType=all&term=2247#detailsOpen=86694" target="_blank"> Fall 24</a>, 
@@ -37,6 +39,7 @@ This course discusses the identification, extraction, documentation, interpretat
 ## CSE535
 **Mobile Computing**\
 Mobile networking, mobile information access, adaptive applications, energy-aware systems, location-aware computing, mobile security and privacy.
+- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=18954-104251?keywords=18954&searchType=all&term=2261#detailsOpen=18954-104251" target="_blank"> Spring 26</a>, 
 - Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=64332-104251?keywords=64332&searchType=all&term=2257#detailsOpen=64332-104251" target="_blank"> Fall 25</a>, 
 - Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> Fall 24</a>, 
 
