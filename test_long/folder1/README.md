@@ -12,16 +12,16 @@ source: `{{ page.path }}` -->
 | Google Scholar Citation  | [:link:][Share-Publish] |
 | pwn.college | [:link:][pwn-college] |
 
-[Understanding Linux File Permissions](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions)
-[Bash Cheatsheet 1](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-[Bash Cheatsheet 2](https://devhints.io/bash)
-[x64.syscall.sh](https://x64.syscall.sh/)
-[syscalls manpage](https://man7.org/linux/man-pages/man2/syscalls.2.html)
-[unofficial x86 instruction reference](https://www.felixcloutier.com/x86/)
-[tmux cheatsheet](https://github.com/toolleeo/tmux-cheatsheet/blob/main/tmux-cheatsheet.txt)
-[gdb cheetsheet](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
-[pwntools ](https://docs.pwntools.com/en/stable/intro.html#making-connections)
-[Linux File Descriptors](https://en.wikipedia.org/wiki/File_descriptor)
+- [Understanding Linux File Permissions](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-understanding-linux-file-permissions)
+- [Bash Cheatsheet 1](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+- [Bash Cheatsheet 2](https://devhints.io/bash)
+- [x64.syscall.sh](https://x64.syscall.sh/)
+- [syscalls manpage](https://man7.org/linux/man-pages/man2/syscalls.2.html)
+- [unofficial x86 instruction reference](https://www.felixcloutier.com/x86/)
+- [tmux cheatsheet](https://github.com/toolleeo/tmux-cheatsheet/blob/main/tmux-cheatsheet.txt)
+- [gdb cheetsheet](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
+- [pwntools ](https://docs.pwntools.com/en/stable/intro.html#making-connections)
+- [Linux File Descriptors](https://en.wikipedia.org/wiki/File_descriptor)
 
 
 [GitHub-Sync]: https://sefcom.asu.edu/
