@@ -1,6 +1,4 @@
 ---
-<!---- sort: 0   
--->
 ---
 ## About Me
 <img align=left src="../images/jaejong.jpg"  width="20%">
