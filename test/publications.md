@@ -5,12 +5,16 @@ sort: 3
 
 
 ## Papers 
+33. Sukwha Kyung, Souradip Nath, **Jaejong Baek**, Gail-Joon Ahn, [Deception by Design: A Configurable Platform for Flexible Cyber Deception Strategy Testing and Evaluation](../papers/acns_2026.pdf){:target="_blank"}, The 24th International Conference on Applied Cryptography and NetworkSecurity (ACNS 2026), Stony Brook, New York, United States, June, 22-55, 2026
+
+32. Sukwha Kyung, Souradip Nath, **Jaejong Baek**, Gail-Joon Ahn, [Harnessing Software-Defined Network for Cyber Deception Modeling and Analysis](../papers/nfv-sdn_2025.pdf){:target="_blank"}, 2025 IEEE Conference on Network Function Virtual-
+ization and Software-Defined Networking (NFV-SDN), Athens, Greece, 2025, pp. 1-6, doi: 10.1109/NFV-SDN66355.2025.11349579.
+
+31. Souradip Nath, Ananta Soneji, **Jaejong Baek**, Carlos Rubio Medrano and Gail-Joon Ahn, [Towards Collaboration-Aware Resource Sharing in Research Computing Infrastructures,](../papers/cic_2025.pdf){:target="_blank"}, 11th IEEE International Conference on Collaboration and Internet Computing (IEEE CIC 2025), Pittsburgh, PA, USA, November, 11-14, 2025
+
 30. Songkhun Nillasithanukroh, Chul Hyun Park, **Jaejong Baek**, Gail-Joon Ahn, Robert Richards, [Mapping the Landscape of Cybersecurity Preparedness: A Systematic Review of Non-Technological Determinants and Consequences](../papers/tis_2025.pdf){:target="_blank"}, Technology in Society Journal, Elsevier, August 20, 2025
 
-29.  Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities
-of Scientific Collaboration and Privilege Management within Research
-Computing Infrastructures*](../papers/sp2025.pdf){:target="_blank"}, 46th IEEE Symposium on
-Security and Privacy (Oakland), San Francisco, USA, May 12-15, 2025
+29. Souradip Nath, Ananta Soneji, **Jaejong Baek**, Tiffany Bao, Adam Doupé, Carlos Rubio-Medrano, and Gail-Joon Ahn, [*It's almost like Frankenstein: Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures*](../papers/sp2025.pdf){:target="_blank"}, 46th IEEE Symposium on Security and Privacy (Oakland), San Francisco, USA, May 12-15, 2025
 
 28. Pradeep Kumar Duraisamy Soundrapandian, Carlos Rubio-Medrano, **Jaejong Baek**, S Geetha, [PendingMutent: An Authorization Framework for Preventing PendingIntent Attacks in Android-based Mobile Cyber-Physical Systems](../papers/pending-mutent-satcps2025.pdf){:target="_blank"}, [ACM Workshop on Secure and Trustworthy Cyber-Physical Systems (SaT-CPS 2025)](https://sites.google.com/view/sat-cps-2025), Pittsburgh, Pennsylvania, USA, June 6, 2025
 
