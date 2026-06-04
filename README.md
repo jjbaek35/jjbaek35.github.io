@@ -14,7 +14,7 @@ Hello, I am an Assistant Teaching Professor at [Arizona State University](https:
 📫 jaejong at asu . edu
 
 ## Latest News
-1. We are proud to announce a new $599,958 NSF Grant (Award ID 2613459) for the project, **"CICI: UCSS: Securing Research Cyberinfrastructures with Zero Trust and Agentic AI"**. This three-year (2026-2029) award will support our team's research in developing advanced cybersecurity for scientific computing systems in partnership with Texas A&M University-Corpus Christi (TAMUCC).
+1. We are proud to announce a new $599,958 NSF Grant ([Award ID 2613459](https://www.nsf.gov/awardsearch/search-results?queryText=2613459)) for the project, **"CICI: UCSS: Securing Research Cyberinfrastructures with Zero Trust and Agentic AI"**. This three-year (2026-2029) award will support our team's research in developing advanced cybersecurity for scientific computing systems in partnership with Texas A&M University-Corpus Christi (TAMUCC).
    
 3. Our paper **"Towards Agentic AI for Access Control in Cyber-infrastructures: Exploring the Security and Human Factors"** has been accepted in The 31st ACM Symposium on Access Control Models and Technologies ([ACM SACMAT 2026](https://www.sacmat.org/2026/index.php)) on July, 8-10, 2026. This paper explores the security and human factors associated with the integration of agentic AI within access control mechanisms for cyber-infrastructures.
 
