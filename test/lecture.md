@@ -10,13 +10,13 @@ sort: 2
 This course serves as a platform for students to gain a solid understanding of the core aspects of cybersecurity. It presents an all-encompassing exploration of security, navigating from the intricate components of the Central Processing Unit (CPU) and kernel, through to userspace, network infrastructures, and cryptography, culminating in a detailed examination of both browser and HTTP server protocols. Each session will introduce a fresh topic, complemented by an assignment that facilitates hands-on exploration and comprehension of these fundamental cybersecurity concepts.
 
 - Class:
-<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=28611-104221?keywords=28611&searchType=all&term=2261#detailsOpen=28611-104221" target="_blank"> Spring 26</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=80965-104221?keywords=80965&searchType=all&term=2257#detailsOpen=80965-104221" target="_blank"> Fall 25</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=16597&searchType=all&term=2251#detailsOpen=16597" target="_blank"> Spring 25</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48695&searchType=all&term=2244#detailsOpen=48695" target="_blank"> Summer 24</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=17217&searchType=all&term=2241&collapse=Y" target="_blank"> Spring 24</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=88662&searchType=all&term=2237&collapse=Y" target="_blank"> Fall 23</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48728&searchType=all&term=2234&collapse=Y" target="_blank"> Summer 23</a>
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=28611-104221?keywords=28611&searchType=all&term=2261#detailsOpen=28611-104221" target="_blank"> S26</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=80965-104221?keywords=80965&searchType=all&term=2257#detailsOpen=80965-104221" target="_blank"> F25</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=16597&searchType=all&term=2251#detailsOpen=16597" target="_blank"> S25</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48695&searchType=all&term=2244#detailsOpen=48695" target="_blank"> S24</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=17217&searchType=all&term=2241&collapse=Y" target="_blank"> S24</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=88662&searchType=all&term=2237&collapse=Y" target="_blank"> F23</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=48728&searchType=all&term=2234&collapse=Y" target="_blank"> Su 23</a>
 
 
 ## CSE469 
@@ -40,10 +40,11 @@ This course discusses the identification, extraction, documentation, interpretat
 ## CSE535
 **Mobile Computing**\
 Mobile networking, mobile information access, adaptive applications, energy-aware systems, location-aware computing, mobile security and privacy.
-- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=63981-104251?keywords=63981&searchType=all&term=2267#detailsOpen=63981-104251"> F26</a>, 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=18954-104251?keywords=18954&searchType=all&term=2261#detailsOpen=18954-104251" target="_blank"> S26</a>, 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=64332-104251?keywords=64332&searchType=all&term=2257#detailsOpen=64332-104251" target="_blank"> F25</a>, 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> F24</a>, 
+- Class:
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=63981-104251?keywords=63981&searchType=all&term=2267#detailsOpen=63981-104251"> F26</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=18954-104251?keywords=18954&searchType=all&term=2261#detailsOpen=18954-104251" target="_blank"> S26</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=64332-104251?keywords=64332&searchType=all&term=2257#detailsOpen=64332-104251" target="_blank"> F25</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> F24</a>, 
 
 ## CSE543
 **Information Assurance and Security**\
@@ -74,5 +75,6 @@ nature of blockchain technology and emphasizing its broad applicability. Topics 
 **The ASU Experience**\
 Students will learn about ASU's mission as the New American University, the importance and benefits of an entrepreneurial approach to problem solving, solutions to sustainability challenges, and the importance of social embeddedness. Additionally, through various course discussions and assignments, students will examine the concept of academic integrity and its potential impact on their future, gain awareness of the value of engaging in research activities, and learn about taking an interdisciplinary perspective.
 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=76390&searchType=all&term=2257#detailsOpen=76390-120433" target="_blank"> Fall 25</a>,
-- Class: <a href="https://catalog.apps.asu.edu/catalog/courses/courselist?subject=ASU&catalogNbr=101-CAI&term=2247&collapse=Y" target="_blank"> Fall 24</a>
+- Class: 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=76390&searchType=all&term=2257#detailsOpen=76390-120433" target="_blank"> Fall 25</a>,
+<a href="https://catalog.apps.asu.edu/catalog/courses/courselist?subject=ASU&catalogNbr=101-CAI&term=2247&collapse=Y" target="_blank"> Fall 24</a>
