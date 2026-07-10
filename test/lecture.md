@@ -24,40 +24,43 @@ This course serves as a platform for students to gain a solid understanding of t
 This course discusses the identification, extraction, documentation, interpretation, and preservation of computer media for evidentiary purposes and/or root cause analysis. Topics include techniques for discovering digital evidence; responding to electronic incidents; tracking communications through networks; understanding electronic media, crypto-literacy, data hiding, and system forensics; and the role of forensics in the digital environment.
 
 - Class: 
-<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=12797-123516?keywords=12797&searchType=all&term=2261#detailsOpen=12797-123516" target="_blank"> Spring 26</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=81196-123516?keywords=81196&searchType=all&term=2257#detailsOpen=81196-123516" target="_blank"> Fall 25</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13026&searchType=all&term=2251#detailsOpen=13026" target="_blank"> Spring 25</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86694&searchType=all&term=2247#detailsOpen=86694" target="_blank"> Fall 24</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13282&searchType=all&term=2241&collapse=Y" target="_blank"> Spring 24</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=84246&searchType=all&term=2237&collapse=Y" target="_blank"> Fall 23</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13565&searchType=all&term=2231&collapse=Y" target="_blank"> Spring 23</a>, 
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2227" target="_blank"> Fall 2022</a>,
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2221" target="_blank"> Spring 2022</a>,
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2211" target="_blank"> Spring 2021</a>,
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2201" target="_blank"> Spring 2020</a>
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=77492-123516?keywords=77492&searchType=all&term=2267#detailsOpen=77492-123516" target="_blank"> F26</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=12797-123516?keywords=12797&searchType=all&term=2261#detailsOpen=12797-123516" target="_blank"> S26</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=81196-123516?keywords=81196&searchType=all&term=2257#detailsOpen=81196-123516" target="_blank"> F25</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13026&searchType=all&term=2251#detailsOpen=13026" target="_blank"> S25</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86694&searchType=all&term=2247#detailsOpen=86694" target="_blank"> F24</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13282&searchType=all&term=2241&collapse=Y" target="_blank"> S24</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=84246&searchType=all&term=2237&collapse=Y" target="_blank"> F23</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=13565&searchType=all&term=2231&collapse=Y" target="_blank"> S23</a>, 
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2227" target="_blank"> F22</a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2221" target="_blank"> S22</a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2211" target="_blank"> S21</a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=469&honors=F&promod=F&searchType=all&subject=CSE&term=2201" target="_blank"> S20</a>
 
 ## CSE535
 **Mobile Computing**\
 Mobile networking, mobile information access, adaptive applications, energy-aware systems, location-aware computing, mobile security and privacy.
-- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=18954-104251?keywords=18954&searchType=all&term=2261#detailsOpen=18954-104251" target="_blank"> Spring 26</a>, 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=64332-104251?keywords=64332&searchType=all&term=2257#detailsOpen=64332-104251" target="_blank"> Fall 25</a>, 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> Fall 24</a>, 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=63981-104251?keywords=63981&searchType=all&term=2267#detailsOpen=63981-104251"> F26</a>, 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=18954-104251?keywords=18954&searchType=all&term=2261#detailsOpen=18954-104251" target="_blank"> S26</a>, 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=64332-104251?keywords=64332&searchType=all&term=2257#detailsOpen=64332-104251" target="_blank"> F25</a>, 
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=64777&searchType=all&term=2247#detailsOpen=64777" target="_blank"> F24</a>, 
 
 ## CSE543
 **Information Assurance and Security**\
 This course will provide students with a comprehensive understanding of the problems of information assurance (IA) and security, and possible solutions to these problems, especially the security of information systems and operating environments. This course will also focus on IA technology as well as IA policy, management, legal and ethical issues.
 
 - Class:
-<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=81198-120209?keywords=81198&searchType=all&term=2257#detailsOpen=81198-120209" target="_blank"> Fall 25</a>,
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=25244&searchType=all&term=2251#detailsOpen=25244" target="_blank"> Spring 25</a>,
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696-120209" target="_blank"> Fall 24</a>,
-<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=27725-120209" target="_blank"> Spring 24</a>
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=70299-120209?keywords=70299&searchType=all&term=2267#detailsOpen=70299-120209" target="_blank"> F26</a>,
+<a href="https://catalog.apps.asu.edu/catalog/favorites#detailsOpen=81198-120209?keywords=81198&searchType=all&term=2257#detailsOpen=81198-120209" target="_blank"> F25</a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=25244&searchType=all&term=2251#detailsOpen=25244" target="_blank"> S25</a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=86696-120209" target="_blank"> F24</a>,
+<a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=86696&searchType=all&term=2247#detailsOpen=27725-120209" target="_blank"> S24</a>
 
 ## CSE548
 **Advanced Computer Network Security**\
 Comprehensive understanding of network security and corresponding solutions, including cryptography, access control, secure Web transactions, e-mail security, and viruses.
 
-- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=43286&searchType=all&term=2244#detailsOpen=43286" target="_blank"> Summer 2024</a>
+- Class: <a href="https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=43286&searchType=all&term=2244#detailsOpen=43286" target="_blank"> Su24</a>
 
 
 ## CSE598
