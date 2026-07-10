@@ -5,6 +5,10 @@ sort: 3
 
 
 ## Papers 
+35.  Sukwha Kyung, Jaejong Baek, and Gail-Joon Ahn, [Inferring Satellite Network Architectures and Orbital Regimes from End-to-End Traffic](../papers/IEEE_space_a.pdf), IEEE SPace, Aerospace and defenCE Conference(IEEE SPACE 2026 ), Bengaluru, India, July 19–21, 2026
+
+36.  Rubio-Medrano, Carlos, Souradip Nath, Ananta Soneji, Jennifer Mondragon, Jaejong Baek, and Gail-Joon Ahn, [Towards Agentic AI for Access Control in Cyber-infrastructures: Exploring the Security and Human Factors](../papers/blue-sky.pdf), Proceedings of the 31st ACM Symposium on Access Control Models and Technologies (SACMAT 2026), Waterloo, Canada, July 8 - 10, 2026
+
 33. Sukwha Kyung, Souradip Nath, **Jaejong Baek**, Gail-Joon Ahn, [Deception by Design: A Configurable Platform for Flexible Cyber Deception Strategy Testing and Evaluation](../papers/acns_2026.pdf){:target="_blank"}, The 24th International Conference on Applied Cryptography and NetworkSecurity (ACNS 2026), Stony Brook, New York, United States, June, 22-55, 2026
 
 32. Sukwha Kyung, Souradip Nath, **Jaejong Baek**, Gail-Joon Ahn, [Harnessing Software-Defined Network for Cyber Deception Modeling and Analysis](../papers/nfv-sdn_2025.pdf){:target="_blank"}, 2025 IEEE Conference on Network Function Virtual-
