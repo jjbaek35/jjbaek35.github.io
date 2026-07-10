@@ -10,6 +10,8 @@ sort: 1
 Identifying security threats and vulnerabilities in 5G network slices based on SDN and NFV and develping Security Reasoning framework to support automatic analysis and conformance testing.
 As a complted project, LTE privacy attacks based on machine learning solutions to identify patterns in the communication of commercial LTE networks and revealing the security hole in Wi-Fi calling.
 
+- [Inferring Satellite Network Architectures and Orbital Regimes from End-to-End Traffic](https://jjbaek35.github.io/papers/IEEE_space_a.pdf){:target="_blank"}, IEEE SPACE 2026 
+- [Harnessing Software-Defined Network for Cyber Deception Modeling and Analysis](../papers/nfv-sdn_2025.pdf){:target="_blank"}, NFV-SDN 2025
 - [Unveiling SDN Controller Identity through Timing Side Channel](https://jjbaek35.github.io/papers/nof2024.pdf){:target="_blank"}, NoF2024
 - [Targeted Privacy Attacks by Fingerprinting Mobile Apps in LTE Radio Layer](https://jjbaek35.github.io/papers/dsn23.pdf){:target="_blank"}, DSN2023
 - [Wi Not Calling: Practical Privacy and Availability Attacks in Wi-Fi Calling](https://jjbaek35.github.io/papers/wi_not_calling-acsac18.pdf){:target="_blank"}, ACSAC2018
@@ -22,9 +24,15 @@ Developing security-enhanced authorization framework aimed to detect and protect
 
 ## Access Management
 
+### Zero Trust and Agentic AI
+This project funded by [NSF (#2613459)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2613459){:target="_blank"} and aims to develop "ZT-Agents," which leverage Agentic Artificial Intelligence to automate and simplify the management of Zero Trust-based authorization policies, ultimately enhancing the security and usability of Research Cyberinfrastructure (RCI).
+
+- [Towards Agentic AI for Access Control in Cyber-infrastructures: Exploring the Security and Human Factors](../papers/blue-sky.pdf){:target="_blank"}, SACMAT 2026
+
 ### Science Access
 This project funded by [NSF (#2232911)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2232911){:target="_blank"} and aims to develop ScienceAccess, a federated framework supporting the storage, retrieval, evaluation, and enforcement of AM-Policies that allows scientists and administrators to manage their resource-sharing needs with a high degree of autonomy.
 - [It's almost like Frankenstein: Investigating the Complexities of Scientific Collaboration and Privilege Management within Research Computing Infrastructures, ](https://jjbaek35.github.io/papers/sp2025.pdf){:target="_blank"}, IEEE S&P 2025
+- [Towards Collaboration-Aware Resource Sharing in Research Computing Infrastructures,](../papers/cic_2025.pdf){:target="_blank"}, IEEE CIC 2025
   
 ### Mobile Augmented Rreality
 - [SpaceMediator: Leveraging Authorization Policies to Prevent Spatial and Privacy Attacks in Mobile Augmented Reality](https://jjbaek35.github.io/papers/sacmat23.pdf){:target="_blank"}, SACMAT2023
