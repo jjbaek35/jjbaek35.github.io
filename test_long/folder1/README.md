@@ -32,5 +32,7 @@ source: `{{ page.path }}` -->
 [pwn-college]: https://pwn.college
 
 <iframe src="https://api.badgr.io/public/assertions/A3Lq5HIcTpqm9DcgGC5Oag?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=jbaek7%40asu.edu" title="Badge: Master Class for Teaching Online" style="width: 330px; height: 191px; border: 0px;"></iframe>
+<br>
+<br>
 
 <iframe src="https://api.credid.asu.edu/v1/public/assertions/0ee2cb60-d68a-4e54-83c1-932bb6dd97f1?embedWidth=450&embedHeight=300&email=jbaek7%40asu.edu" title="Digital Credential: ASU Work+ Certified 2026-2027" style="width: 450px; height: 300px; border: 0px;"></iframe>
