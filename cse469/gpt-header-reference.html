@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CSE 469 GPT Header Reference</title>
+<style>body{font-family:Arial,sans-serif;max-width:980px;margin:40px auto;padding:0 20px;line-height:1.5}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border:1px solid #bbb;padding:8px;text-align:left}code{background:#f3f3f3;padding:2px 4px}.note{background:#f7f7f7;padding:12px;border-left:4px solid #888}</style></head>
+<body>
+<h1>CSE 469 GPT Header Reference Table</h1>
+<p>GPT disks normally use a protective MBR at LBA 0 and the primary GPT header at LBA 1.</p>
+<h2>Typical GPT Disk Layout</h2>
+<table><tr><th>LBA</th><th>Purpose</th></tr>
+<tr><td>0</td><td>Protective MBR, normally with partition type <code>0xEE</code>.</td></tr>
+<tr><td>1</td><td>Primary GPT Header.</td></tr>
+<tr><td>2 and following</td><td>Partition Entry Array.</td></tr>
+<tr><td>End of disk</td><td>Backup Partition Entry Array and backup GPT Header.</td></tr></table>
+<h2>GPT Header Fields</h2>
+<table><tr><th>Offset</th><th>Size</th><th>Field</th><th>Notes</th></tr>
+<tr><td><code>0x00</code></td><td>8</td><td>Signature</td><td>ASCII <code>EFI PART</code>.</td></tr>
+<tr><td><code>0x08</code></td><td>4</td><td>Revision</td><td>Little-endian GPT revision.</td></tr>
+<tr><td><code>0x0C</code></td><td>4</td><td>Header size</td><td>Usually 92 bytes.</td></tr>
+<tr><td><code>0x10</code></td><td>4</td><td>Header CRC32</td><td>Checksum of GPT header.</td></tr>
+<tr><td><code>0x18</code></td><td>8</td><td>Current LBA</td><td>Usually 1 for the primary header.</td></tr>
+<tr><td><code>0x20</code></td><td>8</td><td>Backup LBA</td><td>Location of backup GPT header.</td></tr>
+<tr><td><code>0x28</code></td><td>8</td><td>First usable LBA</td><td>Beginning of usable partition space.</td></tr>
+<tr><td><code>0x30</code></td><td>8</td><td>Last usable LBA</td><td>End of usable partition space.</td></tr>
+<tr><td><code>0x38</code></td><td>16</td><td>Disk GUID</td><td>Unique identifier for the disk.</td></tr>
+<tr><td><code>0x48</code></td><td>8</td><td>Partition Entry Array LBA</td><td>Starting LBA of partition-entry table.</td></tr>
+<tr><td><code>0x50</code></td><td>4</td><td>Number of partition entries</td><td>Commonly 128.</td></tr>
+<tr><td><code>0x54</code></td><td>4</td><td>Partition entry size</td><td>Commonly 128 bytes.</td></tr>
+<tr><td><code>0x58</code></td><td>4</td><td>Partition array CRC32</td><td>Checksum of partition entries.</td></tr></table>
+<h2>Useful Calculations</h2>
+<p><code>byte offset of LBA N = N × sector size</code></p>
+<p>For 512-byte sectors, GPT header at LBA 1 begins at byte offset <code>512</code>.</p>
+<div class="note"><strong>Signature check:</strong> if bytes at LBA 1 begin with ASCII <code>EFI PART</code>, you are looking at a GPT header.</div>
+<p><a href="/cse469/mbr-reference.html">MBR Reference</a> · <a href="/cse469/gpt-entry-reference.html">GPT Partition Entry Reference</a></p>
+</body></html>
