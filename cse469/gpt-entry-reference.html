@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CSE 469 GPT Partition Entry Reference</title>
+<style>body{font-family:Arial,sans-serif;max-width:980px;margin:40px auto;padding:0 20px;line-height:1.5}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border:1px solid #bbb;padding:8px;text-align:left}code{background:#f3f3f3;padding:2px 4px}.note{background:#f7f7f7;padding:12px;border-left:4px solid #888}</style></head>
+<body>
+<h1>CSE 469 GPT Partition Entry Reference Table</h1>
+<p>A standard GPT partition entry is commonly 128 bytes. Confirm the actual entry size from the GPT header before assuming 128.</p>
+<h2>GPT Partition Entry Fields</h2>
+<table><tr><th>Relative offset</th><th>Size</th><th>Field</th><th>Notes</th></tr>
+<tr><td><code>0x00</code></td><td>16</td><td>Partition Type GUID</td><td>Identifies partition type.</td></tr>
+<tr><td><code>0x10</code></td><td>16</td><td>Unique Partition GUID</td><td>Unique identifier for this partition.</td></tr>
+<tr><td><code>0x20</code></td><td>8</td><td>First LBA</td><td>64-bit little-endian starting sector.</td></tr>
+<tr><td><code>0x28</code></td><td>8</td><td>Last LBA</td><td>64-bit little-endian ending sector, inclusive.</td></tr>
+<tr><td><code>0x30</code></td><td>8</td><td>Attributes</td><td>64-bit attribute flags.</td></tr>
+<tr><td><code>0x38–0x7F</code></td><td>72</td><td>Partition name</td><td>36 UTF-16LE characters.</td></tr></table>
+<h2>Partition Size</h2>
+<p><code>number of sectors = Last LBA - First LBA + 1</code></p>
+<p><code>partition size in bytes = number of sectors × sector size</code></p>
+<h2>Partition Name</h2>
+<p>The 72-byte name field is encoded as UTF-16LE. A forensic workflow may extract those 72 bytes and decode them with <code>iconv</code> or Python.</p>
+<div class="note"><strong>Example:</strong> each ASCII-range UTF-16LE character often appears as the character byte followed by <code>00</code>.</div>
+<h2>Helpful inspection tools</h2>
+<p><code>xxd</code>, <code>hexdump</code>, <code>od</code>, <code>dd</code>, <code>strings</code>, <code>iconv</code>, <code>python3</code></p>
+<p><a href="/cse469/mbr-reference.html">MBR Reference</a> · <a href="/cse469/gpt-header-reference.html">GPT Header Reference</a></p>
+</body></html>
