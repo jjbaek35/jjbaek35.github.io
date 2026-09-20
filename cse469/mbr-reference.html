@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CSE 469 MBR Reference</title>
+<style>body{font-family:Arial,sans-serif;max-width:980px;margin:40px auto;padding:0 20px;line-height:1.5}table{border-collapse:collapse;width:100%;margin:1rem 0}th,td{border:1px solid #bbb;padding:8px;text-align:left}code{background:#f3f3f3;padding:2px 4px}h1,h2{margin-top:1.4em}.note{background:#f7f7f7;padding:12px;border-left:4px solid #888}</style></head>
+<body>
+<h1>CSE 469 MBR Reference Table</h1>
+<p>This page is a quick reference for raw-sector analysis in the CSE 469 disk-forensics lab.</p>
+<h2>MBR Sector Layout (512 bytes)</h2>
+<table><tr><th>Offset</th><th>Size</th><th>Field</th><th>Notes</th></tr>
+<tr><td><code>0x000–0x1BD</code></td><td>446 bytes</td><td>Boot code / data area</td><td>May contain boot code or other data.</td></tr>
+<tr><td><code>0x1BE–0x1CD</code></td><td>16 bytes</td><td>Partition entry 1</td><td>First MBR partition entry.</td></tr>
+<tr><td><code>0x1CE–0x1DD</code></td><td>16 bytes</td><td>Partition entry 2</td><td>Second MBR partition entry.</td></tr>
+<tr><td><code>0x1DE–0x1ED</code></td><td>16 bytes</td><td>Partition entry 3</td><td>Third MBR partition entry.</td></tr>
+<tr><td><code>0x1EE–0x1FD</code></td><td>16 bytes</td><td>Partition entry 4</td><td>Fourth MBR partition entry.</td></tr>
+<tr><td><code>0x1FE–0x1FF</code></td><td>2 bytes</td><td>Boot signature</td><td>Normally <code>55 AA</code>.</td></tr></table>
+<h2>MBR Partition Entry (16 bytes)</h2>
+<table><tr><th>Relative offset</th><th>Size</th><th>Field</th><th>Interpretation</th></tr>
+<tr><td><code>0x00</code></td><td>1</td><td>Boot indicator</td><td><code>0x80</code> active, <code>0x00</code> inactive.</td></tr>
+<tr><td><code>0x01–0x03</code></td><td>3</td><td>Starting CHS</td><td>Legacy geometry field; often not used for modern offset calculations.</td></tr>
+<tr><td><code>0x04</code></td><td>1</td><td>Partition type</td><td>Examples: <code>0x07</code> NTFS/exFAT, <code>0x0B/0x0C</code> FAT32, <code>0xEE</code> protective GPT.</td></tr>
+<tr><td><code>0x05–0x07</code></td><td>3</td><td>Ending CHS</td><td>Legacy geometry field.</td></tr>
+<tr><td><code>0x08–0x0B</code></td><td>4</td><td>Starting LBA</td><td>32-bit little-endian sector number.</td></tr>
+<tr><td><code>0x0C–0x0F</code></td><td>4</td><td>Sector count</td><td>32-bit little-endian number of sectors.</td></tr></table>
+<h2>Useful Calculations</h2>
+<p><code>byte offset = starting LBA × sector size</code></p>
+<p>For a 512-byte-sector image: <code>offset = LBA × 512</code>.</p>
+<div class="note"><strong>Endian reminder:</strong> values such as Starting LBA are stored little-endian. Bytes <code>00 08 00 00</code> represent <code>0x00000800</code>, or decimal 2048.</div>
+<h2>Helpful inspection tools</h2>
+<p><code>xxd</code>, <code>hexdump</code>, <code>od</code>, <code>dd</code>, <code>file</code>, <code>strings</code>, <code>python3</code></p>
+<p><a href="/cse469/gpt-header-reference.html">GPT Header Reference</a> · <a href="/cse469/gpt-entry-reference.html">GPT Partition Entry Reference</a></p>
+</body></html>
