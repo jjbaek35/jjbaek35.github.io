@@ -1,5 +1,5 @@
 function search(data) {
-  let text = new URL(location.href).searchParams.get("q");
+  let text = new URL(location.href).searchParams.get("q") || "";
   let lang = new URL(location.href).searchParams.get("lang") || ui.lang;
 
   $("input[name='q']").val(text);
@@ -15,10 +15,22 @@ function search(data) {
     return debug(e.message);
   }
 
-  function slice(content, min, max) {
-    return content
-      .slice(min, max)
-      .replace(regexp, (match) => `<span class="bg-yellow">${match}</span>`);
+  function appendHighlightedText(element, content, expression) {
+    expression.lastIndex = 0;
+    const match = expression.exec(content);
+
+    if (!match || !match[0]) {
+      element.append(document.createTextNode(content));
+      return;
+    }
+
+    element.append(document.createTextNode(content.slice(0, match.index)));
+    element.append(
+      $("<span/>").addClass("bg-yellow").text(match[0])
+    );
+    element.append(
+      document.createTextNode(content.slice(match.index + match[0].length))
+    );
   }
   for (page of data) {
     let [title, content] = [null, null];
@@ -44,9 +56,14 @@ function search(data) {
       debug(e.message);
     }
     if (title || content) {
-      let result = [
-        `<a href="${ui.baseurl}${page.url}?highlight=${text}">${page.title}</a>`,
-      ];
+      const result = $("<li/>").addClass("border-top py-4");
+      const url = new URL(`${ui.baseurl}${page.url}`, location.origin);
+      url.searchParams.set("highlight", text);
+      result.append(
+        $("<a/>")
+          .attr("href", `${url.pathname}${url.search}${url.hash}`)
+          .text(page.title)
+      );
       if (content) {
         let [min, max] = [content.index - 100, content.index + 100];
         let [prefix, suffix] = ["...", "..."];
@@ -59,19 +76,21 @@ function search(data) {
           suffix = "";
           max = page.content.length;
         }
-        result.push(
-          `<p class="text-gray">${prefix}${slice(
-            page.content,
-            min,
-            max
-          )}${suffix}</p>`
+        const summary = $("<p/>").addClass("text-gray");
+        summary.append(document.createTextNode(prefix));
+        appendHighlightedText(
+          summary,
+          page.content.slice(min, max),
+          regexp
         );
+        summary.append(document.createTextNode(suffix));
+        result.append(summary);
       }
-      results.push(`<li class="border-top py-4">${result.join("")}</li>`);
+      results.push(result);
     }
   }
   if (results.length > 0 && text.length > 0) {
-    $(".search-results .content").html(results.join(""));
+    $(".search-results .content").empty().append(results);
     $(".search-results .summary").html(
       ui.i18n.search_results_found.replace("#", results.length)
     );
@@ -83,7 +102,17 @@ function search(data) {
 }
 
 function initialize(name) {
-  let link = $(".toctree").find(`[href="${decodeURI(name)}"]`);
+  let decodedName;
+  try {
+    decodedName = decodeURI(name);
+  } catch (e) {
+    return debug(e.message);
+  }
+  let link = $(".toctree")
+    .find("[href]")
+    .filter(function () {
+      return $(this).attr("href") === decodedName;
+    });
 
   if (link.length > 0) {
     $(".toctree .current").removeClass("current");
@@ -177,24 +206,46 @@ function highlight() {
   let text = new URL(location.href).searchParams.get("highlight");
 
   if (text) {
-    $(".markdown-body")
-      .find("*")
-      .each(function () {
-        try {
-          if (this.outerHTML.match(new RegExp(text, "im"))) {
-            $(this).addClass("search-result");
-            $(this).parentsUntil(".markdown-body").removeClass("search-result");
-          }
-        } catch (e) {
-          debug(e.message);
+    let regexp;
+    try {
+      regexp = new RegExp(text, "im");
+    } catch (e) {
+      return debug(e.message);
+    }
+
+    const root = document.querySelector(".markdown-body");
+    if (root) {
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      const textNodes = [];
+      let node;
+
+      while ((node = walker.nextNode())) {
+        if (!node.parentElement.closest("script, style, .bg-yellow")) {
+          textNodes.push(node);
         }
+      }
+
+      textNodes.forEach(function (textNode) {
+        regexp.lastIndex = 0;
+        const match = regexp.exec(textNode.nodeValue);
+        if (!match || !match[0]) return;
+
+        const fragment = document.createDocumentFragment();
+        fragment.appendChild(
+          document.createTextNode(textNode.nodeValue.slice(0, match.index))
+        );
+        const marker = document.createElement("span");
+        marker.className = "bg-yellow search-result";
+        marker.textContent = match[0];
+        fragment.appendChild(marker);
+        fragment.appendChild(
+          document.createTextNode(
+            textNode.nodeValue.slice(match.index + match[0].length)
+          )
+        );
+        textNode.parentNode.replaceChild(fragment, textNode);
       });
-    // last node
-    $(".search-result").each(function () {
-      $(this).html(function (i, html) {
-        return html.replace(text, `<span class="bg-yellow">${text}</span>`);
-      });
-    });
+    }
     $(".search input").val(text);
   }
 }
